@@ -1,0 +1,35 @@
+{
+  "name": "the-dispatcher",
+  "version": "1.0.0",
+  "description": "🚌 The Dispatcher: A real-time MERN stack simulation game built on live GTFS-RT transit data. Visualizes and manages a virtual fleet to \"beat\" real-world delays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontend720/the-dispatcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/frontend720/the-dispatcher/issues"
+  },
+  "homepage": "https://github.com/frontend720/the-dispatcher#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "gtfs-rt-bindings": "^4.9.0",
+    "mapbox-gl": "^1.13.3",
+    "mongoose": "^8.19.3",
+    "morgan": "^1.10.1",
+    "nodemon": "^3.1.11",
+    "randomcolor": "^0.6.2",
+    "react-mapbox-gl": "^5.1.1",
+    "socket.io": "^4.8.1"
+  }
+}

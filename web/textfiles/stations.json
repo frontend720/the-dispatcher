@@ -1,0 +1,6362 @@
+[
+    {
+        "id": "stop_id",
+        "name": "stop_name",
+        "desc": "stop_desc",
+        "lat": null,
+        "lon": null,
+        "type": null
+    },
+    {
+        "id": "25974",
+        "name": "Dayton Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.643119,
+        "lon": -104.87767,
+        "type": 0
+    },
+    {
+        "id": "34582",
+        "name": "2nd & Abilene Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.71895,
+        "lon": -104.825879,
+        "type": 0
+    },
+    {
+        "id": "24882",
+        "name": "Evans Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.678143,
+        "lon": -104.992653,
+        "type": 0
+    },
+    {
+        "id": "33562",
+        "name": "Lamar Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.736683,
+        "lon": -105.066872,
+        "type": 0
+    },
+    {
+        "id": "23042",
+        "name": "Alameda Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.708706,
+        "lon": -104.993143,
+        "type": 0
+    },
+    {
+        "id": "34006",
+        "name": "County Line Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.562189,
+        "lon": -104.872231,
+        "type": 0
+    },
+    {
+        "id": "25973",
+        "name": "Lincoln Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.54579,
+        "lon": -104.86963,
+        "type": 0
+    },
+    {
+        "id": "23060",
+        "name": "Alameda Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.708196,
+        "lon": -104.992785,
+        "type": 0
+    },
+    {
+        "id": "25430",
+        "name": "Union Station Track 11",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.755422,
+        "lon": -105.00297,
+        "type": 0
+    },
+    {
+        "id": "34581",
+        "name": "2nd & Abilene Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.719781,
+        "lon": -104.825491,
+        "type": 0
+    },
+    {
+        "id": "34015",
+        "name": "Louisiana & Pearl Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.693283,
+        "lon": -104.978684,
+        "type": 0
+    },
+    {
+        "id": "25978",
+        "name": "Southmoor Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.648226,
+        "lon": -104.9161,
+        "type": 0
+    },
+    {
+        "id": "33959",
+        "name": "Lamar Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.736662,
+        "lon": -105.06591,
+        "type": 0
+    },
+    {
+        "id": "33960",
+        "name": "Oak Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.73717,
+        "lon": -105.119452,
+        "type": 0
+    },
+    {
+        "id": "34586",
+        "name": "Colfax Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.739748,
+        "lon": -104.826916,
+        "type": 0
+    },
+    {
+        "id": "23043",
+        "name": "10th & Osage Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.732222,
+        "lon": -105.005654,
+        "type": 0
+    },
+    {
+        "id": "33713",
+        "name": "Evans Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.677962,
+        "lon": -104.992465,
+        "type": 1
+    },
+    {
+        "id": "33851",
+        "name": "Wadsworth / Hampden",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.650897,
+        "lon": -105.082726,
+        "type": 1
+    },
+    {
+        "id": "33719",
+        "name": "Nine Mile Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.658414,
+        "lon": -104.845517,
+        "type": 1
+    },
+    {
+        "id": "34508",
+        "name": "Pecos Junction Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.805421,
+        "lon": -105.003505,
+        "type": 1
+    },
+    {
+        "id": "35353",
+        "name": "Platte Valley",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.725296,
+        "lon": -105.00561,
+        "type": 0
+    },
+    {
+        "id": "34677",
+        "name": "Iliff Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.673511,
+        "lon": -104.826044,
+        "type": 1
+    },
+    {
+        "id": "33820",
+        "name": "Longmont",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.149505,
+        "lon": -105.103068,
+        "type": 1
+    },
+    {
+        "id": "34454",
+        "name": "Boulder Junction at Depot Square Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.024131,
+        "lon": -105.25162,
+        "type": 1
+    },
+    {
+        "id": "34685",
+        "name": "61st / Pena Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.806945,
+        "lon": -104.783907,
+        "type": 1
+    },
+    {
+        "id": "35362",
+        "name": "48th Ave/Brighton Blvd @ Nat`L Western Ctr",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.784667,
+        "lon": -104.967472,
+        "type": 1
+    },
+    {
+        "id": "35366",
+        "name": "Northglenn / 112th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.902677,
+        "lon": -104.959583,
+        "type": 1
+    },
+    {
+        "id": "33836",
+        "name": "Parker",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.523334,
+        "lon": -104.763812,
+        "type": 1
+    },
+    {
+        "id": "33931",
+        "name": "Meridian",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.542472,
+        "lon": -104.860631,
+        "type": 0
+    },
+    {
+        "id": "33732",
+        "name": "Thornton East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.855342,
+        "lon": -104.985899,
+        "type": 1
+    },
+    {
+        "id": "26048",
+        "name": "Wagon Road PnR Gate A",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.912257,
+        "lon": -104.993695,
+        "type": 0
+    },
+    {
+        "id": "26291",
+        "name": "Dry Creek Station Gate B",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.578878,
+        "lon": -104.878904,
+        "type": 0
+    },
+    {
+        "id": "33835",
+        "name": "Paradise Hills",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.704446,
+        "lon": -105.250268,
+        "type": 1
+    },
+    {
+        "id": "34140",
+        "name": "Federal / Evans",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.678787,
+        "lon": -105.025263,
+        "type": 1
+    },
+    {
+        "id": "33737",
+        "name": "US 36 / Church Ranch Station East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.89013,
+        "lon": -105.07321,
+        "type": 1
+    },
+    {
+        "id": "34680",
+        "name": "2nd Ave & Abilene Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.719484,
+        "lon": -104.825073,
+        "type": 1
+    },
+    {
+        "id": "35383",
+        "name": "I-25 & Broadway Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.701779,
+        "lon": -104.990332,
+        "type": 0
+    },
+    {
+        "id": "34109",
+        "name": "10th / Osage Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.73215,
+        "lon": -105.0055,
+        "type": 1
+    },
+    {
+        "id": "33846",
+        "name": "US 285 / Mountain View",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.502526,
+        "lon": -105.322924,
+        "type": 1
+    },
+    {
+        "id": "26183",
+        "name": "Littleton / Mineral Station Gate E",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.581089,
+        "lon": -105.025508,
+        "type": 0
+    },
+    {
+        "id": "33711",
+        "name": "Dry Creek Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.579487,
+        "lon": -104.877416,
+        "type": 1
+    },
+    {
+        "id": "25980",
+        "name": "Colorado Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.679672,
+        "lon": -104.937714,
+        "type": 0
+    },
+    {
+        "id": "35209",
+        "name": "Lone Tree City Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.528023,
+        "lon": -104.863143,
+        "type": 0
+    },
+    {
+        "id": "34012",
+        "name": "Yale Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.669084,
+        "lon": -104.927293,
+        "type": 0
+    },
+    {
+        "id": "33558",
+        "name": "Decatur / Federal Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.737129,
+        "lon": -105.024452,
+        "type": 0
+    },
+    {
+        "id": "25436",
+        "name": "Englewood Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.655291,
+        "lon": -105.000065,
+        "type": 0
+    },
+    {
+        "id": "33560",
+        "name": "Perry Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.73479,
+        "lon": -105.040409,
+        "type": 0
+    },
+    {
+        "id": "33948",
+        "name": "Jeffco Government Center Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.726318,
+        "lon": -105.201046,
+        "type": 0
+    },
+    {
+        "id": "33966",
+        "name": "Red Rocks Community College Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.725014,
+        "lon": -105.151782,
+        "type": 0
+    },
+    {
+        "id": "35204",
+        "name": "Sky Ridge Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.532059,
+        "lon": -104.870263,
+        "type": 0
+    },
+    {
+        "id": "34232",
+        "name": "Decatur-Federal Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.737418,
+        "lon": -105.024806,
+        "type": 1
+    },
+    {
+        "id": "26557",
+        "name": "Lincoln Station CnR",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.545735,
+        "lon": -104.86887,
+        "type": 0
+    },
+    {
+        "id": "34251",
+        "name": "60th / Dahlia",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.805189,
+        "lon": -104.92926,
+        "type": 1
+    },
+    {
+        "id": "33887",
+        "name": "Longmont",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.1692,
+        "lon": -105.113304,
+        "type": 0
+    },
+    {
+        "id": "34502",
+        "name": "Peoria Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.766094,
+        "lon": -104.852057,
+        "type": 1
+    },
+    {
+        "id": "33724",
+        "name": "Colfax at Auraria Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.740277,
+        "lon": -105.001338,
+        "type": 1
+    },
+    {
+        "id": "33935",
+        "name": "Parker",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.524121,
+        "lon": -104.763622,
+        "type": 0
+    },
+    {
+        "id": "33786",
+        "name": "104th Ave / Revere",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.884829,
+        "lon": -104.843141,
+        "type": 1
+    },
+    {
+        "id": "33819",
+        "name": "Lincoln / Jordan",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.534167,
+        "lon": -104.795119,
+        "type": 1
+    },
+    {
+        "id": "34112",
+        "name": "Auraria West Campus Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.742207,
+        "lon": -105.011133,
+        "type": 1
+    },
+    {
+        "id": "33837",
+        "name": "Pine Junction",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.467052,
+        "lon": -105.396773,
+        "type": 1
+    },
+    {
+        "id": "33736",
+        "name": "US 36 / Church Ranch Station West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.890279,
+        "lon": -105.075173,
+        "type": 1
+    },
+    {
+        "id": "35244",
+        "name": "Lone Tree City Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.527669,
+        "lon": -104.86294,
+        "type": 1
+    },
+    {
+        "id": "34506",
+        "name": "60th / Sheridan - Arvada Gold Strike Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.804374,
+        "lon": -105.049081,
+        "type": 1
+    },
+    {
+        "id": "26610",
+        "name": "Parker CnR",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.523557,
+        "lon": -104.763569,
+        "type": 0
+    },
+    {
+        "id": "33531",
+        "name": "US 36 & Broomfield Station Gate F  {1105}",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.906755,
+        "lon": -105.086355,
+        "type": 0
+    },
+    {
+        "id": "33700",
+        "name": "Downtown Boulder Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.016966,
+        "lon": -105.27665,
+        "type": 1
+    },
+    {
+        "id": "33726",
+        "name": "Oxford-City of Sheridan Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.643421,
+        "lon": -105.004535,
+        "type": 1
+    },
+    {
+        "id": "33715",
+        "name": "Littleton / Downtown Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.611904,
+        "lon": -105.01521,
+        "type": 1
+    },
+    {
+        "id": "33840",
+        "name": "8th / Coffman",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.17211,
+        "lon": -105.104345,
+        "type": 1
+    },
+    {
+        "id": "34259",
+        "name": "US 36 / Flatiron Station West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.93249,
+        "lon": -105.123607,
+        "type": 1
+    },
+    {
+        "id": "33844",
+        "name": "Tantra Dr / Table Mesa",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.986328,
+        "lon": -105.239925,
+        "type": 1
+    },
+    {
+        "id": "35354",
+        "name": "Wagon Road",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.912501,
+        "lon": -104.994253,
+        "type": 0
+    },
+    {
+        "id": "33725",
+        "name": "Louisiana / Pearl Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.692708,
+        "lon": -104.97812,
+        "type": 1
+    },
+    {
+        "id": "24892",
+        "name": "Oxford - City of Sheridan Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.64339,
+        "lon": -105.00457,
+        "type": 0
+    },
+    {
+        "id": "34587",
+        "name": "Fitzsimons Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.755008,
+        "lon": -104.840933,
+        "type": 0
+    },
+    {
+        "id": "25990",
+        "name": "Arapahoe at Village Center Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.600301,
+        "lon": -104.888555,
+        "type": 0
+    },
+    {
+        "id": "24890",
+        "name": "Englewood Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.655904,
+        "lon": -104.999736,
+        "type": 0
+    },
+    {
+        "id": "34011",
+        "name": "Southmoor Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.648971,
+        "lon": -104.916439,
+        "type": 0
+    },
+    {
+        "id": "34007",
+        "name": "Dry Creek Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.579326,
+        "lon": -104.876957,
+        "type": 0
+    },
+    {
+        "id": "34574",
+        "name": "Iliff Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.673649,
+        "lon": -104.826472,
+        "type": 0
+    },
+    {
+        "id": "33566",
+        "name": "Federal Center Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.720037,
+        "lon": -105.12964,
+        "type": 0
+    },
+    {
+        "id": "33568",
+        "name": "Jeffco Government Center Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.726394,
+        "lon": -105.200985,
+        "type": 0
+    },
+    {
+        "id": "25428",
+        "name": "Empower Field at Mile High Station",
+        "desc": "Vehicles Travelling Northeast",
+        "lat": 39.743543,
+        "lon": -105.013526,
+        "type": 0
+    },
+    {
+        "id": "25991",
+        "name": "Belleview Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.627686,
+        "lon": -104.904568,
+        "type": 0
+    },
+    {
+        "id": "33561",
+        "name": "Sheridan Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.735147,
+        "lon": -105.053616,
+        "type": 0
+    },
+    {
+        "id": "25988",
+        "name": "County Line Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.561818,
+        "lon": -104.872282,
+        "type": 0
+    },
+    {
+        "id": "34199",
+        "name": "Golden",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.726779,
+        "lon": -105.201184,
+        "type": 0
+    },
+    {
+        "id": "33741",
+        "name": "Federal Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.719005,
+        "lon": -105.129257,
+        "type": 1
+    },
+    {
+        "id": "33744",
+        "name": "US 36 / Flatiron Station East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.933697,
+        "lon": -105.123056,
+        "type": 1
+    },
+    {
+        "id": "34682",
+        "name": "Colfax Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.74083,
+        "lon": -104.826398,
+        "type": 1
+    },
+    {
+        "id": "35352",
+        "name": "Grant St & E 140th Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.947938,
+        "lon": -104.987108,
+        "type": 0
+    },
+    {
+        "id": "34110",
+        "name": "Ball Arena / Elitch Gardens Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.748691,
+        "lon": -105.009234,
+        "type": 1
+    },
+    {
+        "id": "35351",
+        "name": "Grant St & E 143rd Pl",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.953152,
+        "lon": -104.982162,
+        "type": 0
+    },
+    {
+        "id": "34234",
+        "name": "Perry Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.734568,
+        "lon": -105.040036,
+        "type": 1
+    },
+    {
+        "id": "33847",
+        "name": "US 287 / 21st Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.197323,
+        "lon": -105.102972,
+        "type": 1
+    },
+    {
+        "id": "33722",
+        "name": "University of Denver Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.684914,
+        "lon": -104.964677,
+        "type": 1
+    },
+    {
+        "id": "34147",
+        "name": "Ulster / Tufts",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.630961,
+        "lon": -104.896356,
+        "type": 1
+    },
+    {
+        "id": "33710",
+        "name": "Dayton Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.643677,
+        "lon": -104.878653,
+        "type": 1
+    },
+    {
+        "id": "26293",
+        "name": "Belleview Station Gate A",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.627557,
+        "lon": -104.904545,
+        "type": 0
+    },
+    {
+        "id": "34136",
+        "name": "Cherry Creek",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.718122,
+        "lon": -104.957349,
+        "type": 1
+    },
+    {
+        "id": "33745",
+        "name": "US 36 / Broomfield Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.906436,
+        "lon": -105.086374,
+        "type": 1
+    },
+    {
+        "id": "33721",
+        "name": "Southmoor Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.648898,
+        "lon": -104.915046,
+        "type": 1
+    },
+    {
+        "id": "33727",
+        "name": "Union Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.754338,
+        "lon": -105.00214,
+        "type": 1
+    },
+    {
+        "id": "33888",
+        "name": "Brighton",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.983812,
+        "lon": -104.780645,
+        "type": 0
+    },
+    {
+        "id": "33789",
+        "name": "27th Way / Broadway",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.99712,
+        "lon": -105.26104,
+        "type": 1
+    },
+    {
+        "id": "33733",
+        "name": "Thornton West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.8553,
+        "lon": -104.987905,
+        "type": 1
+    },
+    {
+        "id": "35363",
+        "name": "Commerce City / 72nd Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.826497,
+        "lon": -104.942292,
+        "type": 1
+    },
+    {
+        "id": "33706",
+        "name": "Belleview Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.627524,
+        "lon": -104.904746,
+        "type": 1
+    },
+    {
+        "id": "33832",
+        "name": "Nederland",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.962279,
+        "lon": -105.512878,
+        "type": 1
+    },
+    {
+        "id": "34009",
+        "name": "Orchard Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.613872,
+        "lon": -104.896351,
+        "type": 0
+    },
+    {
+        "id": "33967",
+        "name": "Sheridan Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.735114,
+        "lon": -105.052794,
+        "type": 0
+    },
+    {
+        "id": "34010",
+        "name": "Belleview Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.628012,
+        "lon": -104.904639,
+        "type": 0
+    },
+    {
+        "id": "34583",
+        "name": "13th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.735376,
+        "lon": -104.823497,
+        "type": 0
+    },
+    {
+        "id": "33970",
+        "name": "Wadsworth Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.736607,
+        "lon": -105.080761,
+        "type": 0
+    },
+    {
+        "id": "25983",
+        "name": "Orchard Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.613379,
+        "lon": -104.896079,
+        "type": 0
+    },
+    {
+        "id": "24894",
+        "name": "Littleton / Downtown Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.612258,
+        "lon": -105.014684,
+        "type": 0
+    },
+    {
+        "id": "25431",
+        "name": "Auraria West Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.741316,
+        "lon": -105.010685,
+        "type": 0
+    },
+    {
+        "id": "34578",
+        "name": "Florida Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.689534,
+        "lon": -104.828474,
+        "type": 0
+    },
+    {
+        "id": "34580",
+        "name": "Aurora Metro Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.70843,
+        "lon": -104.819136,
+        "type": 0
+    },
+    {
+        "id": "35207",
+        "name": "Lone Tree City Center Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.527318,
+        "lon": -104.863268,
+        "type": 0
+    },
+    {
+        "id": "25987",
+        "name": "Nine Mile Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.657552,
+        "lon": -104.845102,
+        "type": 0
+    },
+    {
+        "id": "25433",
+        "name": "Ball Arena / Elitch Gardens Station",
+        "desc": "Vehicles Travelling Southwest",
+        "lat": 39.748568,
+        "lon": -105.009966,
+        "type": 0
+    },
+    {
+        "id": "33792",
+        "name": "Bergen Park",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.691131,
+        "lon": -105.363125,
+        "type": 1
+    },
+    {
+        "id": "34504",
+        "name": "Wheat Ridge / Ward Road Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.789544,
+        "lon": -105.13327,
+        "type": 1
+    },
+    {
+        "id": "34238",
+        "name": "Garrison Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.736531,
+        "lon": -105.099528,
+        "type": 1
+    },
+    {
+        "id": "33712",
+        "name": "Englewood Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.655506,
+        "lon": -104.999664,
+        "type": 1
+    },
+    {
+        "id": "33933",
+        "name": "Orchard",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.605961,
+        "lon": -104.90393,
+        "type": 0
+    },
+    {
+        "id": "34503",
+        "name": "Denver Airport Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.847913,
+        "lon": -104.673943,
+        "type": 1
+    },
+    {
+        "id": "34241",
+        "name": "Jefferson CO Government-Golden Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.726354,
+        "lon": -105.199734,
+        "type": 1
+    },
+    {
+        "id": "34500",
+        "name": "40th / Colorado Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.775841,
+        "lon": -104.944754,
+        "type": 1
+    },
+    {
+        "id": "34678",
+        "name": "Aurora Metro Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.709069,
+        "lon": -104.818422,
+        "type": 1
+    },
+    {
+        "id": "34236",
+        "name": "Lamar Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.736672,
+        "lon": -105.066483,
+        "type": 1
+    },
+    {
+        "id": "35347",
+        "name": "Orchard Pkwy & W 144th Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.955825,
+        "lon": -104.991974,
+        "type": 0
+    },
+    {
+        "id": "33932",
+        "name": "North Inverness",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.579347,
+        "lon": -104.867717,
+        "type": 0
+    },
+    {
+        "id": "33816",
+        "name": "Hwy 119 / Niwot",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.101973,
+        "lon": -105.176797,
+        "type": 1
+    },
+    {
+        "id": "35245",
+        "name": "Ridgegate Parkway Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.51936,
+        "lon": -104.865365,
+        "type": 1
+    },
+    {
+        "id": "33704",
+        "name": "Alameda Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.70892,
+        "lon": -104.992883,
+        "type": 1
+    },
+    {
+        "id": "34239",
+        "name": "Oak Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.737381,
+        "lon": -105.119365,
+        "type": 1
+    },
+    {
+        "id": "33841",
+        "name": "Sh 72 / Sh 93",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.865537,
+        "lon": -105.239732,
+        "type": 1
+    },
+    {
+        "id": "34144",
+        "name": "Lakewood Commons",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.708029,
+        "lon": -105.085237,
+        "type": 1
+    },
+    {
+        "id": "34137",
+        "name": "Colfax / Federal",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.741316,
+        "lon": -105.02405,
+        "type": 1
+    },
+    {
+        "id": "35243",
+        "name": "Sky Ridge Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.532268,
+        "lon": -104.869854,
+        "type": 1
+    },
+    {
+        "id": "33818",
+        "name": "Lafayette",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.988933,
+        "lon": -105.089872,
+        "type": 1
+    },
+    {
+        "id": "33703",
+        "name": "30th / Downing Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.758977,
+        "lon": -104.973786,
+        "type": 1
+    },
+    {
+        "id": "33686",
+        "name": "I-25 / Broadway Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.701235,
+        "lon": -104.98886,
+        "type": 1
+    },
+    {
+        "id": "33735",
+        "name": "US 36 / Sheridan Station West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.856981,
+        "lon": -105.054209,
+        "type": 1
+    },
+    {
+        "id": "34237",
+        "name": "Lakewood-Wadsworth Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.736884,
+        "lon": -105.081096,
+        "type": 1
+    },
+    {
+        "id": "35365",
+        "name": "Thornton Crossroads / 104th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.881986,
+        "lon": -104.940968,
+        "type": 1
+    },
+    {
+        "id": "33743",
+        "name": "Table Mesa",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.986443,
+        "lon": -105.232995,
+        "type": 1
+    },
+    {
+        "id": "33811",
+        "name": "Highlands Ranch Town Center",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.547521,
+        "lon": -104.997432,
+        "type": 1
+    },
+    {
+        "id": "34235",
+        "name": "Sheridan Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.735028,
+        "lon": -105.053634,
+        "type": 1
+    },
+    {
+        "id": "25981",
+        "name": "University of Denver Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.685254,
+        "lon": -104.964706,
+        "type": 0
+    },
+    {
+        "id": "33563",
+        "name": "Wadsworth Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.736664,
+        "lon": -105.082063,
+        "type": 0
+    },
+    {
+        "id": "23041",
+        "name": "I-25 & Broadway Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.701958,
+        "lon": -104.990075,
+        "type": 0
+    },
+    {
+        "id": "34014",
+        "name": "University of Denver Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.685437,
+        "lon": -104.965175,
+        "type": 0
+    },
+    {
+        "id": "33958",
+        "name": "Decatur / Federal Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.737394,
+        "lon": -105.023633,
+        "type": 0
+    },
+    {
+        "id": "23061",
+        "name": "I-25 & Broadway Station Center Track",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.701418,
+        "lon": -104.990111,
+        "type": 0
+    },
+    {
+        "id": "35205",
+        "name": "Sky Ridge Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.532536,
+        "lon": -104.870481,
+        "type": 0
+    },
+    {
+        "id": "34744",
+        "name": "Peoria Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.767176,
+        "lon": -104.849977,
+        "type": 0
+    },
+    {
+        "id": "25989",
+        "name": "Dry Creek Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.579064,
+        "lon": -104.876783,
+        "type": 0
+    },
+    {
+        "id": "34745",
+        "name": "Peoria Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.767391,
+        "lon": -104.851022,
+        "type": 0
+    },
+    {
+        "id": "25438",
+        "name": "Littleton / Downtown Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.611761,
+        "lon": -105.015065,
+        "type": 0
+    },
+    {
+        "id": "33565",
+        "name": "Oak Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.7374,
+        "lon": -105.120463,
+        "type": 0
+    },
+    {
+        "id": "25437",
+        "name": "Oxford - City of Sheridan Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.642554,
+        "lon": -105.004967,
+        "type": 0
+    },
+    {
+        "id": "35350",
+        "name": "Lincoln St & E 143rd Pl",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.954106,
+        "lon": -104.984539,
+        "type": 0
+    },
+    {
+        "id": "34233",
+        "name": "Knox Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.735434,
+        "lon": -105.03288,
+        "type": 1
+    },
+    {
+        "id": "33708",
+        "name": "Colorado Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.679398,
+        "lon": -104.937673,
+        "type": 1
+    },
+    {
+        "id": "33793",
+        "name": "Aspen Park",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.541051,
+        "lon": -105.298494,
+        "type": 1
+    },
+    {
+        "id": "33707",
+        "name": "Broadway Marketplace",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.708879,
+        "lon": -104.989493,
+        "type": 1
+    },
+    {
+        "id": "33817",
+        "name": "Ken Caryl / C-470",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.581332,
+        "lon": -105.136671,
+        "type": 1
+    },
+    {
+        "id": "34198",
+        "name": "Green Mountain",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.719005,
+        "lon": -105.128045,
+        "type": 0
+    },
+    {
+        "id": "34134",
+        "name": "Bear Valley",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.655993,
+        "lon": -105.052943,
+        "type": 1
+    },
+    {
+        "id": "33716",
+        "name": "Littleton / Mineral Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.58039,
+        "lon": -105.02611,
+        "type": 1
+    },
+    {
+        "id": "33807",
+        "name": "C470 / University Blvd",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.561203,
+        "lon": -104.96119,
+        "type": 1
+    },
+    {
+        "id": "34683",
+        "name": "Fitzsimons Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.755018,
+        "lon": -104.838018,
+        "type": 1
+    },
+    {
+        "id": "35478",
+        "name": "North Broomfield",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.978664,
+        "lon": -105.034893,
+        "type": 0
+    },
+    {
+        "id": "34501",
+        "name": "Central Park Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.769723,
+        "lon": -104.892912,
+        "type": 1
+    },
+    {
+        "id": "33934",
+        "name": "South Inverness",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.559573,
+        "lon": -104.859742,
+        "type": 0
+    },
+    {
+        "id": "34706",
+        "name": "US 36 / McCaslin Station West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.957994,
+        "lon": -105.168557,
+        "type": 1
+    },
+    {
+        "id": "25429",
+        "name": "Ball Arena / Elitch Gardens Station",
+        "desc": "Vehicles Travelling Northeast",
+        "lat": 39.748736,
+        "lon": -105.00943,
+        "type": 0
+    },
+    {
+        "id": "33941",
+        "name": "Knox Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.735353,
+        "lon": -105.032364,
+        "type": 0
+    },
+    {
+        "id": "25435",
+        "name": "Evans Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.677331,
+        "lon": -104.992946,
+        "type": 0
+    },
+    {
+        "id": "33567",
+        "name": "Red Rocks Community College Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.725078,
+        "lon": -105.152812,
+        "type": 0
+    },
+    {
+        "id": "34585",
+        "name": "Colfax Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.740689,
+        "lon": -104.826999,
+        "type": 0
+    },
+    {
+        "id": "25439",
+        "name": "Littleton / Mineral Ave Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.579865,
+        "lon": -105.025202,
+        "type": 0
+    },
+    {
+        "id": "25432",
+        "name": "Empower Field at Mile High Station",
+        "desc": "Vehicles Travelling Southwest",
+        "lat": 39.743342,
+        "lon": -105.012761,
+        "type": 0
+    },
+    {
+        "id": "34003",
+        "name": "Nine Mile Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.657344,
+        "lon": -104.845575,
+        "type": 0
+    },
+    {
+        "id": "25427",
+        "name": "Auraria West Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.742027,
+        "lon": -105.010937,
+        "type": 0
+    },
+    {
+        "id": "34505",
+        "name": "Arvada Ridge Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.791993,
+        "lon": -105.110976,
+        "type": 1
+    },
+    {
+        "id": "34684",
+        "name": "38th / Blake Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.770729,
+        "lon": -104.9734,
+        "type": 1
+    },
+    {
+        "id": "34549",
+        "name": "Westminster Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.823124,
+        "lon": -105.027939,
+        "type": 1
+    },
+    {
+        "id": "33791",
+        "name": "Boulder Church of The Nazarene",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.989328,
+        "lon": -105.255235,
+        "type": 1
+    },
+    {
+        "id": "26606",
+        "name": "Orchard Station CnR",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.613556,
+        "lon": -104.896318,
+        "type": 0
+    },
+    {
+        "id": "35364",
+        "name": "Original Thornton / 88th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.858851,
+        "lon": -104.952449,
+        "type": 1
+    },
+    {
+        "id": "34681",
+        "name": "13th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.734452,
+        "lon": -104.824601,
+        "type": 1
+    },
+    {
+        "id": "33790",
+        "name": "Alameda / Havana",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.712073,
+        "lon": -104.864438,
+        "type": 1
+    },
+    {
+        "id": "33709",
+        "name": "County Line Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.561964,
+        "lon": -104.870532,
+        "type": 1
+    },
+    {
+        "id": "33842",
+        "name": "Smoky Hill / Picadilly",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.608862,
+        "lon": -104.746141,
+        "type": 1
+    },
+    {
+        "id": "34507",
+        "name": "Clear Creek / Federal Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.804819,
+        "lon": -105.022624,
+        "type": 1
+    },
+    {
+        "id": "33739",
+        "name": "US 36 / McCaslin Station East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.959154,
+        "lon": -105.167602,
+        "type": 1
+    },
+    {
+        "id": "35367",
+        "name": "Eastlake /124th Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.922525,
+        "lon": -104.962657,
+        "type": 1
+    },
+    {
+        "id": "33723",
+        "name": "Yale Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.668779,
+        "lon": -104.927566,
+        "type": 1
+    },
+    {
+        "id": "33720",
+        "name": "Orchard Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.6134,
+        "lon": -104.89641,
+        "type": 1
+    },
+    {
+        "id": "33889",
+        "name": "Evergreen",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.654788,
+        "lon": -105.340412,
+        "type": 0
+    },
+    {
+        "id": "33848",
+        "name": "US 287 / Niwot Rd",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.102022,
+        "lon": -105.103487,
+        "type": 1
+    },
+    {
+        "id": "33845",
+        "name": "US 285 / Twin Forks",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.607118,
+        "lon": -105.229658,
+        "type": 1
+    },
+    {
+        "id": "34548",
+        "name": "41st / Fox Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.772741,
+        "lon": -104.995362,
+        "type": 1
+    },
+    {
+        "id": "33734",
+        "name": "US 36 / Sheridan Station East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.857837,
+        "lon": -105.052841,
+        "type": 1
+    },
+    {
+        "id": "33746",
+        "name": "Wagon Road",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.912353,
+        "lon": -104.994181,
+        "type": 1
+    },
+    {
+        "id": "33957",
+        "name": "Garrison Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.736524,
+        "lon": -105.099125,
+        "type": 0
+    },
+    {
+        "id": "33564",
+        "name": "Garrison Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.736608,
+        "lon": -105.099811,
+        "type": 0
+    },
+    {
+        "id": "34584",
+        "name": "13th Ave Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.73446,
+        "lon": -104.82369,
+        "type": 0
+    },
+    {
+        "id": "25982",
+        "name": "Louisiana & Pearl Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.692825,
+        "lon": -104.978216,
+        "type": 0
+    },
+    {
+        "id": "34579",
+        "name": "Aurora Metro Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.708951,
+        "lon": -104.818993,
+        "type": 0
+    },
+    {
+        "id": "35212",
+        "name": "Ridgegate Parkway Station",
+        "desc": "Vehicles Travelling Northeast",
+        "lat": 39.520791,
+        "lon": -104.86521,
+        "type": 0
+    },
+    {
+        "id": "34013",
+        "name": "Colorado Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.679757,
+        "lon": -104.938313,
+        "type": 0
+    },
+    {
+        "id": "34005",
+        "name": "Lincoln Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.546353,
+        "lon": -104.869622,
+        "type": 0
+    },
+    {
+        "id": "23059",
+        "name": "10th & Osage Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.731664,
+        "lon": -105.005549,
+        "type": 0
+    },
+    {
+        "id": "33559",
+        "name": "Knox Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.735687,
+        "lon": -105.033303,
+        "type": 0
+    },
+    {
+        "id": "33955",
+        "name": "Federal Center Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.719895,
+        "lon": -105.128448,
+        "type": 0
+    },
+    {
+        "id": "34008",
+        "name": "Arapahoe at Village Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.600442,
+        "lon": -104.888539,
+        "type": 0
+    },
+    {
+        "id": "34240",
+        "name": "Red Rocks College Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.724954,
+        "lon": -105.149955,
+        "type": 1
+    },
+    {
+        "id": "33898",
+        "name": "Arapahoe",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.612743,
+        "lon": -104.866783,
+        "type": 0
+    },
+    {
+        "id": "33899",
+        "name": "Belleview",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.624023,
+        "lon": -104.891007,
+        "type": 0
+    },
+    {
+        "id": "33701",
+        "name": "Civic Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.740986,
+        "lon": -104.986849,
+        "type": 1
+    },
+    {
+        "id": "33740",
+        "name": "40th  / Airport - Gateway Park Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.76983,
+        "lon": -104.785452,
+        "type": 1
+    },
+    {
+        "id": "26190",
+        "name": "Arapahoe at Village Center Station Gate F",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.601459,
+        "lon": -104.888034,
+        "type": 0
+    },
+    {
+        "id": "33891",
+        "name": "Federal Heights",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.870106,
+        "lon": -105.006772,
+        "type": 0
+    },
+    {
+        "id": "33843",
+        "name": "Southwest Plaza",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.613689,
+        "lon": -105.091964,
+        "type": 1
+    },
+    {
+        "id": "34893",
+        "name": "Superior",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.95769,
+        "lon": -105.169162,
+        "type": 0
+    },
+    {
+        "id": "33714",
+        "name": "Lincoln Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.546147,
+        "lon": -104.869738,
+        "type": 1
+    },
+    {
+        "id": "33649",
+        "name": "Federal Center Station Gate B",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.719828,
+        "lon": -105.128205,
+        "type": 0
+    },
+    {
+        "id": "26313",
+        "name": "County Line Station Gate B",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.561862,
+        "lon": -104.870092,
+        "type": 0
+    },
+    {
+        "id": "33810",
+        "name": "Genesee Park",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.711016,
+        "lon": -105.294117,
+        "type": 1
+    },
+    {
+        "id": "33833",
+        "name": "Olde Town Arvada",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.798974,
+        "lon": -105.078976,
+        "type": 1
+    },
+    {
+        "id": "33809",
+        "name": "Evergreen",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.639149,
+        "lon": -105.332193,
+        "type": 1
+    },
+    {
+        "id": "33850",
+        "name": "US 85 / Bridge St",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.984264,
+        "lon": -104.823496,
+        "type": 1
+    },
+    {
+        "id": "34129",
+        "name": "106th / Melody",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.888698,
+        "lon": -104.995115,
+        "type": 1
+    },
+    {
+        "id": "33894",
+        "name": "Louisville",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.961844,
+        "lon": -105.166505,
+        "type": 0
+    },
+    {
+        "id": "33900",
+        "name": "Dry Creek",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.580662,
+        "lon": -104.900508,
+        "type": 0
+    },
+    {
+        "id": "35348",
+        "name": "Delaware St & W 146th Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.960077,
+        "lon": -104.99015,
+        "type": 0
+    },
+    {
+        "id": "33705",
+        "name": "Arapahoe at Village Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.601315,
+        "lon": -104.887494,
+        "type": 1
+    },
+    {
+        "id": "24896",
+        "name": "Littleton / Mineral Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.580413,
+        "lon": -105.024812,
+        "type": 0
+    },
+    {
+        "id": "25979",
+        "name": "Yale Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.668627,
+        "lon": -104.927157,
+        "type": 0
+    },
+    {
+        "id": "25434",
+        "name": "Union Station Track 12",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.755125,
+        "lon": -105.003351,
+        "type": 0
+    },
+    {
+        "id": "34575",
+        "name": "Iliff Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.672974,
+        "lon": -104.827232,
+        "type": 0
+    },
+    {
+        "id": "34004",
+        "name": "Dayton Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.642743,
+        "lon": -104.878433,
+        "type": 0
+    },
+    {
+        "id": "33965",
+        "name": "Perry Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.734688,
+        "lon": -105.039597,
+        "type": 0
+    },
+    {
+        "id": "34577",
+        "name": "Florida Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.690358,
+        "lon": -104.82847,
+        "type": 0
+    },
+    {
+        "id": "34588",
+        "name": "Fitzsimons Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.754789,
+        "lon": -104.839819,
+        "type": 0
+    },
+    {
+        "id": "35211",
+        "name": "Ridgegate Parkway Station",
+        "desc": "Vehicles Travelling Southwest",
+        "lat": 39.520244,
+        "lon": -104.865725,
+        "type": 0
+    },
+    {
+        "id": "33788",
+        "name": "39th St / Table Mesa",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.985522,
+        "lon": -105.248455,
+        "type": 1
+    },
+    {
+        "id": "33896",
+        "name": "Thornton/Northglenn",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.921579,
+        "lon": -104.962164,
+        "type": 0
+    },
+    {
+        "id": "33893",
+        "name": "Broomfield",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.923692,
+        "lon": -105.075206,
+        "type": 0
+    },
+    {
+        "id": "33902",
+        "name": "Lone Tree",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.548315,
+        "lon": -104.894618,
+        "type": 0
+    },
+    {
+        "id": "33890",
+        "name": "South Jeffco",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.614346,
+        "lon": -105.093146,
+        "type": 0
+    },
+    {
+        "id": "34142",
+        "name": "Golden",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.757518,
+        "lon": -105.222901,
+        "type": 1
+    },
+    {
+        "id": "26346",
+        "name": "Dry Creek Station Gate C",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.578883,
+        "lon": -104.873712,
+        "type": 0
+    },
+    {
+        "id": "34111",
+        "name": "Empower Field at Mile High",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.743181,
+        "lon": -105.013483,
+        "type": 1
+    },
+    {
+        "id": "33838",
+        "name": "Pinery",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.457477,
+        "lon": -104.756527,
+        "type": 1
+    },
+    {
+        "id": "34145",
+        "name": "Race / Davies",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.590816,
+        "lon": -104.965729,
+        "type": 1
+    },
+    {
+        "id": "33834",
+        "name": "Olympic Park",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.667301,
+        "lon": -104.807628,
+        "type": 1
+    },
+    {
+        "id": "34679",
+        "name": "Florida Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.689917,
+        "lon": -104.828099,
+        "type": 1
+    },
+    {
+        "id": "stop_id",
+        "name": "stop_name",
+        "desc": "stop_desc",
+        "lat": null,
+        "lon": null,
+        "type": null
+    },
+    {
+        "id": "25974",
+        "name": "Dayton Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.643119,
+        "lon": -104.87767,
+        "type": 0
+    },
+    {
+        "id": "34582",
+        "name": "2nd & Abilene Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.71895,
+        "lon": -104.825879,
+        "type": 0
+    },
+    {
+        "id": "24882",
+        "name": "Evans Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.678143,
+        "lon": -104.992653,
+        "type": 0
+    },
+    {
+        "id": "33562",
+        "name": "Lamar Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.736683,
+        "lon": -105.066872,
+        "type": 0
+    },
+    {
+        "id": "23042",
+        "name": "Alameda Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.708706,
+        "lon": -104.993143,
+        "type": 0
+    },
+    {
+        "id": "34006",
+        "name": "County Line Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.562189,
+        "lon": -104.872231,
+        "type": 0
+    },
+    {
+        "id": "25973",
+        "name": "Lincoln Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.54579,
+        "lon": -104.86963,
+        "type": 0
+    },
+    {
+        "id": "23060",
+        "name": "Alameda Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.708196,
+        "lon": -104.992785,
+        "type": 0
+    },
+    {
+        "id": "25430",
+        "name": "Union Station Track 11",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.755422,
+        "lon": -105.00297,
+        "type": 0
+    },
+    {
+        "id": "34581",
+        "name": "2nd & Abilene Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.719781,
+        "lon": -104.825491,
+        "type": 0
+    },
+    {
+        "id": "34015",
+        "name": "Louisiana & Pearl Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.693283,
+        "lon": -104.978684,
+        "type": 0
+    },
+    {
+        "id": "25978",
+        "name": "Southmoor Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.648226,
+        "lon": -104.9161,
+        "type": 0
+    },
+    {
+        "id": "33959",
+        "name": "Lamar Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.736662,
+        "lon": -105.06591,
+        "type": 0
+    },
+    {
+        "id": "33960",
+        "name": "Oak Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.73717,
+        "lon": -105.119452,
+        "type": 0
+    },
+    {
+        "id": "34586",
+        "name": "Colfax Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.739748,
+        "lon": -104.826916,
+        "type": 0
+    },
+    {
+        "id": "23043",
+        "name": "10th & Osage Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.732222,
+        "lon": -105.005654,
+        "type": 0
+    },
+    {
+        "id": "33713",
+        "name": "Evans Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.677962,
+        "lon": -104.992465,
+        "type": 1
+    },
+    {
+        "id": "33851",
+        "name": "Wadsworth / Hampden",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.650897,
+        "lon": -105.082726,
+        "type": 1
+    },
+    {
+        "id": "33719",
+        "name": "Nine Mile Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.658414,
+        "lon": -104.845517,
+        "type": 1
+    },
+    {
+        "id": "34508",
+        "name": "Pecos Junction Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.805421,
+        "lon": -105.003505,
+        "type": 1
+    },
+    {
+        "id": "35353",
+        "name": "Platte Valley",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.725296,
+        "lon": -105.00561,
+        "type": 0
+    },
+    {
+        "id": "34677",
+        "name": "Iliff Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.673511,
+        "lon": -104.826044,
+        "type": 1
+    },
+    {
+        "id": "33820",
+        "name": "Longmont",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.149505,
+        "lon": -105.103068,
+        "type": 1
+    },
+    {
+        "id": "34454",
+        "name": "Boulder Junction at Depot Square Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.024131,
+        "lon": -105.25162,
+        "type": 1
+    },
+    {
+        "id": "34685",
+        "name": "61st / Pena Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.806945,
+        "lon": -104.783907,
+        "type": 1
+    },
+    {
+        "id": "35362",
+        "name": "48th Ave/Brighton Blvd @ Nat`L Western Ctr",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.784667,
+        "lon": -104.967472,
+        "type": 1
+    },
+    {
+        "id": "35366",
+        "name": "Northglenn / 112th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.902677,
+        "lon": -104.959583,
+        "type": 1
+    },
+    {
+        "id": "33836",
+        "name": "Parker",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.523334,
+        "lon": -104.763812,
+        "type": 1
+    },
+    {
+        "id": "33931",
+        "name": "Meridian",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.542472,
+        "lon": -104.860631,
+        "type": 0
+    },
+    {
+        "id": "33732",
+        "name": "Thornton East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.855342,
+        "lon": -104.985899,
+        "type": 1
+    },
+    {
+        "id": "26048",
+        "name": "Wagon Road PnR Gate A",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.912257,
+        "lon": -104.993695,
+        "type": 0
+    },
+    {
+        "id": "26291",
+        "name": "Dry Creek Station Gate B",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.578878,
+        "lon": -104.878904,
+        "type": 0
+    },
+    {
+        "id": "33835",
+        "name": "Paradise Hills",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.704446,
+        "lon": -105.250268,
+        "type": 1
+    },
+    {
+        "id": "34140",
+        "name": "Federal / Evans",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.678787,
+        "lon": -105.025263,
+        "type": 1
+    },
+    {
+        "id": "33737",
+        "name": "US 36 / Church Ranch Station East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.89013,
+        "lon": -105.07321,
+        "type": 1
+    },
+    {
+        "id": "34680",
+        "name": "2nd Ave & Abilene Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.719484,
+        "lon": -104.825073,
+        "type": 1
+    },
+    {
+        "id": "35383",
+        "name": "I-25 & Broadway Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.701779,
+        "lon": -104.990332,
+        "type": 0
+    },
+    {
+        "id": "34109",
+        "name": "10th / Osage Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.73215,
+        "lon": -105.0055,
+        "type": 1
+    },
+    {
+        "id": "33846",
+        "name": "US 285 / Mountain View",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.502526,
+        "lon": -105.322924,
+        "type": 1
+    },
+    {
+        "id": "26183",
+        "name": "Littleton / Mineral Station Gate E",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.581089,
+        "lon": -105.025508,
+        "type": 0
+    },
+    {
+        "id": "33711",
+        "name": "Dry Creek Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.579487,
+        "lon": -104.877416,
+        "type": 1
+    },
+    {
+        "id": "25980",
+        "name": "Colorado Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.679672,
+        "lon": -104.937714,
+        "type": 0
+    },
+    {
+        "id": "35209",
+        "name": "Lone Tree City Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.528023,
+        "lon": -104.863143,
+        "type": 0
+    },
+    {
+        "id": "34012",
+        "name": "Yale Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.669084,
+        "lon": -104.927293,
+        "type": 0
+    },
+    {
+        "id": "33558",
+        "name": "Decatur / Federal Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.737129,
+        "lon": -105.024452,
+        "type": 0
+    },
+    {
+        "id": "25436",
+        "name": "Englewood Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.655291,
+        "lon": -105.000065,
+        "type": 0
+    },
+    {
+        "id": "33560",
+        "name": "Perry Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.73479,
+        "lon": -105.040409,
+        "type": 0
+    },
+    {
+        "id": "33948",
+        "name": "Jeffco Government Center Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.726318,
+        "lon": -105.201046,
+        "type": 0
+    },
+    {
+        "id": "33966",
+        "name": "Red Rocks Community College Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.725014,
+        "lon": -105.151782,
+        "type": 0
+    },
+    {
+        "id": "35204",
+        "name": "Sky Ridge Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.532059,
+        "lon": -104.870263,
+        "type": 0
+    },
+    {
+        "id": "34232",
+        "name": "Decatur-Federal Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.737418,
+        "lon": -105.024806,
+        "type": 1
+    },
+    {
+        "id": "26557",
+        "name": "Lincoln Station CnR",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.545735,
+        "lon": -104.86887,
+        "type": 0
+    },
+    {
+        "id": "34251",
+        "name": "60th / Dahlia",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.805189,
+        "lon": -104.92926,
+        "type": 1
+    },
+    {
+        "id": "33887",
+        "name": "Longmont",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.1692,
+        "lon": -105.113304,
+        "type": 0
+    },
+    {
+        "id": "34502",
+        "name": "Peoria Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.766094,
+        "lon": -104.852057,
+        "type": 1
+    },
+    {
+        "id": "33724",
+        "name": "Colfax at Auraria Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.740277,
+        "lon": -105.001338,
+        "type": 1
+    },
+    {
+        "id": "33935",
+        "name": "Parker",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.524121,
+        "lon": -104.763622,
+        "type": 0
+    },
+    {
+        "id": "33786",
+        "name": "104th Ave / Revere",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.884829,
+        "lon": -104.843141,
+        "type": 1
+    },
+    {
+        "id": "33819",
+        "name": "Lincoln / Jordan",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.534167,
+        "lon": -104.795119,
+        "type": 1
+    },
+    {
+        "id": "34112",
+        "name": "Auraria West Campus Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.742207,
+        "lon": -105.011133,
+        "type": 1
+    },
+    {
+        "id": "33837",
+        "name": "Pine Junction",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.467052,
+        "lon": -105.396773,
+        "type": 1
+    },
+    {
+        "id": "33736",
+        "name": "US 36 / Church Ranch Station West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.890279,
+        "lon": -105.075173,
+        "type": 1
+    },
+    {
+        "id": "35244",
+        "name": "Lone Tree City Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.527669,
+        "lon": -104.86294,
+        "type": 1
+    },
+    {
+        "id": "34506",
+        "name": "60th / Sheridan - Arvada Gold Strike Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.804374,
+        "lon": -105.049081,
+        "type": 1
+    },
+    {
+        "id": "26610",
+        "name": "Parker CnR",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.523557,
+        "lon": -104.763569,
+        "type": 0
+    },
+    {
+        "id": "33531",
+        "name": "US 36 & Broomfield Station Gate F  {1105}",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.906755,
+        "lon": -105.086355,
+        "type": 0
+    },
+    {
+        "id": "33700",
+        "name": "Downtown Boulder Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.016966,
+        "lon": -105.27665,
+        "type": 1
+    },
+    {
+        "id": "33726",
+        "name": "Oxford-City of Sheridan Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.643421,
+        "lon": -105.004535,
+        "type": 1
+    },
+    {
+        "id": "33715",
+        "name": "Littleton / Downtown Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.611904,
+        "lon": -105.01521,
+        "type": 1
+    },
+    {
+        "id": "33840",
+        "name": "8th / Coffman",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.17211,
+        "lon": -105.104345,
+        "type": 1
+    },
+    {
+        "id": "34259",
+        "name": "US 36 / Flatiron Station West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.93249,
+        "lon": -105.123607,
+        "type": 1
+    },
+    {
+        "id": "33844",
+        "name": "Tantra Dr / Table Mesa",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.986328,
+        "lon": -105.239925,
+        "type": 1
+    },
+    {
+        "id": "35354",
+        "name": "Wagon Road",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.912501,
+        "lon": -104.994253,
+        "type": 0
+    },
+    {
+        "id": "33725",
+        "name": "Louisiana / Pearl Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.692708,
+        "lon": -104.97812,
+        "type": 1
+    },
+    {
+        "id": "24892",
+        "name": "Oxford - City of Sheridan Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.64339,
+        "lon": -105.00457,
+        "type": 0
+    },
+    {
+        "id": "34587",
+        "name": "Fitzsimons Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.755008,
+        "lon": -104.840933,
+        "type": 0
+    },
+    {
+        "id": "25990",
+        "name": "Arapahoe at Village Center Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.600301,
+        "lon": -104.888555,
+        "type": 0
+    },
+    {
+        "id": "24890",
+        "name": "Englewood Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.655904,
+        "lon": -104.999736,
+        "type": 0
+    },
+    {
+        "id": "34011",
+        "name": "Southmoor Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.648971,
+        "lon": -104.916439,
+        "type": 0
+    },
+    {
+        "id": "34007",
+        "name": "Dry Creek Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.579326,
+        "lon": -104.876957,
+        "type": 0
+    },
+    {
+        "id": "34574",
+        "name": "Iliff Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.673649,
+        "lon": -104.826472,
+        "type": 0
+    },
+    {
+        "id": "33566",
+        "name": "Federal Center Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.720037,
+        "lon": -105.12964,
+        "type": 0
+    },
+    {
+        "id": "33568",
+        "name": "Jeffco Government Center Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.726394,
+        "lon": -105.200985,
+        "type": 0
+    },
+    {
+        "id": "25428",
+        "name": "Empower Field at Mile High Station",
+        "desc": "Vehicles Travelling Northeast",
+        "lat": 39.743543,
+        "lon": -105.013526,
+        "type": 0
+    },
+    {
+        "id": "25991",
+        "name": "Belleview Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.627686,
+        "lon": -104.904568,
+        "type": 0
+    },
+    {
+        "id": "33561",
+        "name": "Sheridan Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.735147,
+        "lon": -105.053616,
+        "type": 0
+    },
+    {
+        "id": "25988",
+        "name": "County Line Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.561818,
+        "lon": -104.872282,
+        "type": 0
+    },
+    {
+        "id": "34199",
+        "name": "Golden",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.726779,
+        "lon": -105.201184,
+        "type": 0
+    },
+    {
+        "id": "33741",
+        "name": "Federal Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.719005,
+        "lon": -105.129257,
+        "type": 1
+    },
+    {
+        "id": "33744",
+        "name": "US 36 / Flatiron Station East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.933697,
+        "lon": -105.123056,
+        "type": 1
+    },
+    {
+        "id": "34682",
+        "name": "Colfax Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.74083,
+        "lon": -104.826398,
+        "type": 1
+    },
+    {
+        "id": "35352",
+        "name": "Grant St & E 140th Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.947938,
+        "lon": -104.987108,
+        "type": 0
+    },
+    {
+        "id": "34110",
+        "name": "Ball Arena / Elitch Gardens Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.748691,
+        "lon": -105.009234,
+        "type": 1
+    },
+    {
+        "id": "35351",
+        "name": "Grant St & E 143rd Pl",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.953152,
+        "lon": -104.982162,
+        "type": 0
+    },
+    {
+        "id": "34234",
+        "name": "Perry Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.734568,
+        "lon": -105.040036,
+        "type": 1
+    },
+    {
+        "id": "33847",
+        "name": "US 287 / 21st Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.197323,
+        "lon": -105.102972,
+        "type": 1
+    },
+    {
+        "id": "33722",
+        "name": "University of Denver Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.684914,
+        "lon": -104.964677,
+        "type": 1
+    },
+    {
+        "id": "34147",
+        "name": "Ulster / Tufts",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.630961,
+        "lon": -104.896356,
+        "type": 1
+    },
+    {
+        "id": "33710",
+        "name": "Dayton Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.643677,
+        "lon": -104.878653,
+        "type": 1
+    },
+    {
+        "id": "26293",
+        "name": "Belleview Station Gate A",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.627557,
+        "lon": -104.904545,
+        "type": 0
+    },
+    {
+        "id": "34136",
+        "name": "Cherry Creek",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.718122,
+        "lon": -104.957349,
+        "type": 1
+    },
+    {
+        "id": "33745",
+        "name": "US 36 / Broomfield Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.906436,
+        "lon": -105.086374,
+        "type": 1
+    },
+    {
+        "id": "33721",
+        "name": "Southmoor Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.648898,
+        "lon": -104.915046,
+        "type": 1
+    },
+    {
+        "id": "33727",
+        "name": "Union Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.754338,
+        "lon": -105.00214,
+        "type": 1
+    },
+    {
+        "id": "33888",
+        "name": "Brighton",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.983812,
+        "lon": -104.780645,
+        "type": 0
+    },
+    {
+        "id": "33789",
+        "name": "27th Way / Broadway",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.99712,
+        "lon": -105.26104,
+        "type": 1
+    },
+    {
+        "id": "33733",
+        "name": "Thornton West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.8553,
+        "lon": -104.987905,
+        "type": 1
+    },
+    {
+        "id": "35363",
+        "name": "Commerce City / 72nd Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.826497,
+        "lon": -104.942292,
+        "type": 1
+    },
+    {
+        "id": "33706",
+        "name": "Belleview Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.627524,
+        "lon": -104.904746,
+        "type": 1
+    },
+    {
+        "id": "33832",
+        "name": "Nederland",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.962279,
+        "lon": -105.512878,
+        "type": 1
+    },
+    {
+        "id": "34009",
+        "name": "Orchard Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.613872,
+        "lon": -104.896351,
+        "type": 0
+    },
+    {
+        "id": "33967",
+        "name": "Sheridan Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.735114,
+        "lon": -105.052794,
+        "type": 0
+    },
+    {
+        "id": "34010",
+        "name": "Belleview Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.628012,
+        "lon": -104.904639,
+        "type": 0
+    },
+    {
+        "id": "34583",
+        "name": "13th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.735376,
+        "lon": -104.823497,
+        "type": 0
+    },
+    {
+        "id": "33970",
+        "name": "Wadsworth Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.736607,
+        "lon": -105.080761,
+        "type": 0
+    },
+    {
+        "id": "25983",
+        "name": "Orchard Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.613379,
+        "lon": -104.896079,
+        "type": 0
+    },
+    {
+        "id": "24894",
+        "name": "Littleton / Downtown Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.612258,
+        "lon": -105.014684,
+        "type": 0
+    },
+    {
+        "id": "25431",
+        "name": "Auraria West Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.741316,
+        "lon": -105.010685,
+        "type": 0
+    },
+    {
+        "id": "34578",
+        "name": "Florida Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.689534,
+        "lon": -104.828474,
+        "type": 0
+    },
+    {
+        "id": "34580",
+        "name": "Aurora Metro Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.70843,
+        "lon": -104.819136,
+        "type": 0
+    },
+    {
+        "id": "35207",
+        "name": "Lone Tree City Center Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.527318,
+        "lon": -104.863268,
+        "type": 0
+    },
+    {
+        "id": "25987",
+        "name": "Nine Mile Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.657552,
+        "lon": -104.845102,
+        "type": 0
+    },
+    {
+        "id": "25433",
+        "name": "Ball Arena / Elitch Gardens Station",
+        "desc": "Vehicles Travelling Southwest",
+        "lat": 39.748568,
+        "lon": -105.009966,
+        "type": 0
+    },
+    {
+        "id": "33792",
+        "name": "Bergen Park",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.691131,
+        "lon": -105.363125,
+        "type": 1
+    },
+    {
+        "id": "34504",
+        "name": "Wheat Ridge / Ward Road Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.789544,
+        "lon": -105.13327,
+        "type": 1
+    },
+    {
+        "id": "34238",
+        "name": "Garrison Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.736531,
+        "lon": -105.099528,
+        "type": 1
+    },
+    {
+        "id": "33712",
+        "name": "Englewood Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.655506,
+        "lon": -104.999664,
+        "type": 1
+    },
+    {
+        "id": "33933",
+        "name": "Orchard",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.605961,
+        "lon": -104.90393,
+        "type": 0
+    },
+    {
+        "id": "34503",
+        "name": "Denver Airport Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.847913,
+        "lon": -104.673943,
+        "type": 1
+    },
+    {
+        "id": "34241",
+        "name": "Jefferson CO Government-Golden Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.726354,
+        "lon": -105.199734,
+        "type": 1
+    },
+    {
+        "id": "34500",
+        "name": "40th / Colorado Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.775841,
+        "lon": -104.944754,
+        "type": 1
+    },
+    {
+        "id": "34678",
+        "name": "Aurora Metro Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.709069,
+        "lon": -104.818422,
+        "type": 1
+    },
+    {
+        "id": "34236",
+        "name": "Lamar Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.736672,
+        "lon": -105.066483,
+        "type": 1
+    },
+    {
+        "id": "35347",
+        "name": "Orchard Pkwy & W 144th Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.955825,
+        "lon": -104.991974,
+        "type": 0
+    },
+    {
+        "id": "33932",
+        "name": "North Inverness",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.579347,
+        "lon": -104.867717,
+        "type": 0
+    },
+    {
+        "id": "33816",
+        "name": "Hwy 119 / Niwot",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.101973,
+        "lon": -105.176797,
+        "type": 1
+    },
+    {
+        "id": "35245",
+        "name": "Ridgegate Parkway Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.51936,
+        "lon": -104.865365,
+        "type": 1
+    },
+    {
+        "id": "33704",
+        "name": "Alameda Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.70892,
+        "lon": -104.992883,
+        "type": 1
+    },
+    {
+        "id": "34239",
+        "name": "Oak Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.737381,
+        "lon": -105.119365,
+        "type": 1
+    },
+    {
+        "id": "33841",
+        "name": "Sh 72 / Sh 93",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.865537,
+        "lon": -105.239732,
+        "type": 1
+    },
+    {
+        "id": "34144",
+        "name": "Lakewood Commons",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.708029,
+        "lon": -105.085237,
+        "type": 1
+    },
+    {
+        "id": "34137",
+        "name": "Colfax / Federal",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.741316,
+        "lon": -105.02405,
+        "type": 1
+    },
+    {
+        "id": "35243",
+        "name": "Sky Ridge Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.532268,
+        "lon": -104.869854,
+        "type": 1
+    },
+    {
+        "id": "33818",
+        "name": "Lafayette",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.988933,
+        "lon": -105.089872,
+        "type": 1
+    },
+    {
+        "id": "33703",
+        "name": "30th / Downing Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.758977,
+        "lon": -104.973786,
+        "type": 1
+    },
+    {
+        "id": "33686",
+        "name": "I-25 / Broadway Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.701235,
+        "lon": -104.98886,
+        "type": 1
+    },
+    {
+        "id": "33735",
+        "name": "US 36 / Sheridan Station West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.856981,
+        "lon": -105.054209,
+        "type": 1
+    },
+    {
+        "id": "34237",
+        "name": "Lakewood-Wadsworth Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.736884,
+        "lon": -105.081096,
+        "type": 1
+    },
+    {
+        "id": "35365",
+        "name": "Thornton Crossroads / 104th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.881986,
+        "lon": -104.940968,
+        "type": 1
+    },
+    {
+        "id": "33743",
+        "name": "Table Mesa",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.986443,
+        "lon": -105.232995,
+        "type": 1
+    },
+    {
+        "id": "33811",
+        "name": "Highlands Ranch Town Center",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.547521,
+        "lon": -104.997432,
+        "type": 1
+    },
+    {
+        "id": "34235",
+        "name": "Sheridan Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.735028,
+        "lon": -105.053634,
+        "type": 1
+    },
+    {
+        "id": "25981",
+        "name": "University of Denver Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.685254,
+        "lon": -104.964706,
+        "type": 0
+    },
+    {
+        "id": "33563",
+        "name": "Wadsworth Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.736664,
+        "lon": -105.082063,
+        "type": 0
+    },
+    {
+        "id": "23041",
+        "name": "I-25 & Broadway Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.701958,
+        "lon": -104.990075,
+        "type": 0
+    },
+    {
+        "id": "34014",
+        "name": "University of Denver Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.685437,
+        "lon": -104.965175,
+        "type": 0
+    },
+    {
+        "id": "33958",
+        "name": "Decatur / Federal Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.737394,
+        "lon": -105.023633,
+        "type": 0
+    },
+    {
+        "id": "23061",
+        "name": "I-25 & Broadway Station Center Track",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.701418,
+        "lon": -104.990111,
+        "type": 0
+    },
+    {
+        "id": "35205",
+        "name": "Sky Ridge Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.532536,
+        "lon": -104.870481,
+        "type": 0
+    },
+    {
+        "id": "34744",
+        "name": "Peoria Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.767176,
+        "lon": -104.849977,
+        "type": 0
+    },
+    {
+        "id": "25989",
+        "name": "Dry Creek Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.579064,
+        "lon": -104.876783,
+        "type": 0
+    },
+    {
+        "id": "34745",
+        "name": "Peoria Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.767391,
+        "lon": -104.851022,
+        "type": 0
+    },
+    {
+        "id": "25438",
+        "name": "Littleton / Downtown Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.611761,
+        "lon": -105.015065,
+        "type": 0
+    },
+    {
+        "id": "33565",
+        "name": "Oak Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.7374,
+        "lon": -105.120463,
+        "type": 0
+    },
+    {
+        "id": "25437",
+        "name": "Oxford - City of Sheridan Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.642554,
+        "lon": -105.004967,
+        "type": 0
+    },
+    {
+        "id": "35350",
+        "name": "Lincoln St & E 143rd Pl",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.954106,
+        "lon": -104.984539,
+        "type": 0
+    },
+    {
+        "id": "34233",
+        "name": "Knox Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.735434,
+        "lon": -105.03288,
+        "type": 1
+    },
+    {
+        "id": "33708",
+        "name": "Colorado Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.679398,
+        "lon": -104.937673,
+        "type": 1
+    },
+    {
+        "id": "33793",
+        "name": "Aspen Park",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.541051,
+        "lon": -105.298494,
+        "type": 1
+    },
+    {
+        "id": "33707",
+        "name": "Broadway Marketplace",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.708879,
+        "lon": -104.989493,
+        "type": 1
+    },
+    {
+        "id": "33817",
+        "name": "Ken Caryl / C-470",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.581332,
+        "lon": -105.136671,
+        "type": 1
+    },
+    {
+        "id": "34198",
+        "name": "Green Mountain",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.719005,
+        "lon": -105.128045,
+        "type": 0
+    },
+    {
+        "id": "34134",
+        "name": "Bear Valley",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.655993,
+        "lon": -105.052943,
+        "type": 1
+    },
+    {
+        "id": "33716",
+        "name": "Littleton / Mineral Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.58039,
+        "lon": -105.02611,
+        "type": 1
+    },
+    {
+        "id": "33807",
+        "name": "C470 / University Blvd",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.561203,
+        "lon": -104.96119,
+        "type": 1
+    },
+    {
+        "id": "34683",
+        "name": "Fitzsimons Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.755018,
+        "lon": -104.838018,
+        "type": 1
+    },
+    {
+        "id": "35478",
+        "name": "North Broomfield",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.978664,
+        "lon": -105.034893,
+        "type": 0
+    },
+    {
+        "id": "34501",
+        "name": "Central Park Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.769723,
+        "lon": -104.892912,
+        "type": 1
+    },
+    {
+        "id": "33934",
+        "name": "South Inverness",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.559573,
+        "lon": -104.859742,
+        "type": 0
+    },
+    {
+        "id": "34706",
+        "name": "US 36 / McCaslin Station West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.957994,
+        "lon": -105.168557,
+        "type": 1
+    },
+    {
+        "id": "25429",
+        "name": "Ball Arena / Elitch Gardens Station",
+        "desc": "Vehicles Travelling Northeast",
+        "lat": 39.748736,
+        "lon": -105.00943,
+        "type": 0
+    },
+    {
+        "id": "33941",
+        "name": "Knox Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.735353,
+        "lon": -105.032364,
+        "type": 0
+    },
+    {
+        "id": "25435",
+        "name": "Evans Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.677331,
+        "lon": -104.992946,
+        "type": 0
+    },
+    {
+        "id": "33567",
+        "name": "Red Rocks Community College Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.725078,
+        "lon": -105.152812,
+        "type": 0
+    },
+    {
+        "id": "34585",
+        "name": "Colfax Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.740689,
+        "lon": -104.826999,
+        "type": 0
+    },
+    {
+        "id": "25439",
+        "name": "Littleton / Mineral Ave Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.579865,
+        "lon": -105.025202,
+        "type": 0
+    },
+    {
+        "id": "25432",
+        "name": "Empower Field at Mile High Station",
+        "desc": "Vehicles Travelling Southwest",
+        "lat": 39.743342,
+        "lon": -105.012761,
+        "type": 0
+    },
+    {
+        "id": "34003",
+        "name": "Nine Mile Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.657344,
+        "lon": -104.845575,
+        "type": 0
+    },
+    {
+        "id": "25427",
+        "name": "Auraria West Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.742027,
+        "lon": -105.010937,
+        "type": 0
+    },
+    {
+        "id": "34505",
+        "name": "Arvada Ridge Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.791993,
+        "lon": -105.110976,
+        "type": 1
+    },
+    {
+        "id": "34684",
+        "name": "38th / Blake Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.770729,
+        "lon": -104.9734,
+        "type": 1
+    },
+    {
+        "id": "34549",
+        "name": "Westminster Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.823124,
+        "lon": -105.027939,
+        "type": 1
+    },
+    {
+        "id": "33791",
+        "name": "Boulder Church of The Nazarene",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.989328,
+        "lon": -105.255235,
+        "type": 1
+    },
+    {
+        "id": "26606",
+        "name": "Orchard Station CnR",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.613556,
+        "lon": -104.896318,
+        "type": 0
+    },
+    {
+        "id": "35364",
+        "name": "Original Thornton / 88th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.858851,
+        "lon": -104.952449,
+        "type": 1
+    },
+    {
+        "id": "34681",
+        "name": "13th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.734452,
+        "lon": -104.824601,
+        "type": 1
+    },
+    {
+        "id": "33790",
+        "name": "Alameda / Havana",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.712073,
+        "lon": -104.864438,
+        "type": 1
+    },
+    {
+        "id": "33709",
+        "name": "County Line Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.561964,
+        "lon": -104.870532,
+        "type": 1
+    },
+    {
+        "id": "33842",
+        "name": "Smoky Hill / Picadilly",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.608862,
+        "lon": -104.746141,
+        "type": 1
+    },
+    {
+        "id": "34507",
+        "name": "Clear Creek / Federal Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.804819,
+        "lon": -105.022624,
+        "type": 1
+    },
+    {
+        "id": "33739",
+        "name": "US 36 / McCaslin Station East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.959154,
+        "lon": -105.167602,
+        "type": 1
+    },
+    {
+        "id": "35367",
+        "name": "Eastlake /124th Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.922525,
+        "lon": -104.962657,
+        "type": 1
+    },
+    {
+        "id": "33723",
+        "name": "Yale Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.668779,
+        "lon": -104.927566,
+        "type": 1
+    },
+    {
+        "id": "33720",
+        "name": "Orchard Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.6134,
+        "lon": -104.89641,
+        "type": 1
+    },
+    {
+        "id": "33889",
+        "name": "Evergreen",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.654788,
+        "lon": -105.340412,
+        "type": 0
+    },
+    {
+        "id": "33848",
+        "name": "US 287 / Niwot Rd",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.102022,
+        "lon": -105.103487,
+        "type": 1
+    },
+    {
+        "id": "33845",
+        "name": "US 285 / Twin Forks",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.607118,
+        "lon": -105.229658,
+        "type": 1
+    },
+    {
+        "id": "34548",
+        "name": "41st / Fox Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.772741,
+        "lon": -104.995362,
+        "type": 1
+    },
+    {
+        "id": "33734",
+        "name": "US 36 / Sheridan Station East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.857837,
+        "lon": -105.052841,
+        "type": 1
+    },
+    {
+        "id": "33746",
+        "name": "Wagon Road",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.912353,
+        "lon": -104.994181,
+        "type": 1
+    },
+    {
+        "id": "33957",
+        "name": "Garrison Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.736524,
+        "lon": -105.099125,
+        "type": 0
+    },
+    {
+        "id": "33564",
+        "name": "Garrison Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.736608,
+        "lon": -105.099811,
+        "type": 0
+    },
+    {
+        "id": "34584",
+        "name": "13th Ave Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.73446,
+        "lon": -104.82369,
+        "type": 0
+    },
+    {
+        "id": "25982",
+        "name": "Louisiana & Pearl Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.692825,
+        "lon": -104.978216,
+        "type": 0
+    },
+    {
+        "id": "34579",
+        "name": "Aurora Metro Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.708951,
+        "lon": -104.818993,
+        "type": 0
+    },
+    {
+        "id": "35212",
+        "name": "Ridgegate Parkway Station",
+        "desc": "Vehicles Travelling Northeast",
+        "lat": 39.520791,
+        "lon": -104.86521,
+        "type": 0
+    },
+    {
+        "id": "34013",
+        "name": "Colorado Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.679757,
+        "lon": -104.938313,
+        "type": 0
+    },
+    {
+        "id": "34005",
+        "name": "Lincoln Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.546353,
+        "lon": -104.869622,
+        "type": 0
+    },
+    {
+        "id": "23059",
+        "name": "10th & Osage Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.731664,
+        "lon": -105.005549,
+        "type": 0
+    },
+    {
+        "id": "33559",
+        "name": "Knox Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.735687,
+        "lon": -105.033303,
+        "type": 0
+    },
+    {
+        "id": "33955",
+        "name": "Federal Center Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.719895,
+        "lon": -105.128448,
+        "type": 0
+    },
+    {
+        "id": "34008",
+        "name": "Arapahoe at Village Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.600442,
+        "lon": -104.888539,
+        "type": 0
+    },
+    {
+        "id": "34240",
+        "name": "Red Rocks College Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.724954,
+        "lon": -105.149955,
+        "type": 1
+    },
+    {
+        "id": "33898",
+        "name": "Arapahoe",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.612743,
+        "lon": -104.866783,
+        "type": 0
+    },
+    {
+        "id": "33899",
+        "name": "Belleview",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.624023,
+        "lon": -104.891007,
+        "type": 0
+    },
+    {
+        "id": "33701",
+        "name": "Civic Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.740986,
+        "lon": -104.986849,
+        "type": 1
+    },
+    {
+        "id": "33740",
+        "name": "40th  / Airport - Gateway Park Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.76983,
+        "lon": -104.785452,
+        "type": 1
+    },
+    {
+        "id": "26190",
+        "name": "Arapahoe at Village Center Station Gate F",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.601459,
+        "lon": -104.888034,
+        "type": 0
+    },
+    {
+        "id": "33891",
+        "name": "Federal Heights",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.870106,
+        "lon": -105.006772,
+        "type": 0
+    },
+    {
+        "id": "33843",
+        "name": "Southwest Plaza",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.613689,
+        "lon": -105.091964,
+        "type": 1
+    },
+    {
+        "id": "34893",
+        "name": "Superior",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.95769,
+        "lon": -105.169162,
+        "type": 0
+    },
+    {
+        "id": "33714",
+        "name": "Lincoln Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.546147,
+        "lon": -104.869738,
+        "type": 1
+    },
+    {
+        "id": "33649",
+        "name": "Federal Center Station Gate B",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.719828,
+        "lon": -105.128205,
+        "type": 0
+    },
+    {
+        "id": "26313",
+        "name": "County Line Station Gate B",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.561862,
+        "lon": -104.870092,
+        "type": 0
+    },
+    {
+        "id": "33810",
+        "name": "Genesee Park",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.711016,
+        "lon": -105.294117,
+        "type": 1
+    },
+    {
+        "id": "33833",
+        "name": "Olde Town Arvada",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.798974,
+        "lon": -105.078976,
+        "type": 1
+    },
+    {
+        "id": "33809",
+        "name": "Evergreen",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.639149,
+        "lon": -105.332193,
+        "type": 1
+    },
+    {
+        "id": "33850",
+        "name": "US 85 / Bridge St",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.984264,
+        "lon": -104.823496,
+        "type": 1
+    },
+    {
+        "id": "34129",
+        "name": "106th / Melody",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.888698,
+        "lon": -104.995115,
+        "type": 1
+    },
+    {
+        "id": "33894",
+        "name": "Louisville",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.961844,
+        "lon": -105.166505,
+        "type": 0
+    },
+    {
+        "id": "33900",
+        "name": "Dry Creek",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.580662,
+        "lon": -104.900508,
+        "type": 0
+    },
+    {
+        "id": "35348",
+        "name": "Delaware St & W 146th Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.960077,
+        "lon": -104.99015,
+        "type": 0
+    },
+    {
+        "id": "33705",
+        "name": "Arapahoe at Village Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.601315,
+        "lon": -104.887494,
+        "type": 1
+    },
+    {
+        "id": "24896",
+        "name": "Littleton / Mineral Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.580413,
+        "lon": -105.024812,
+        "type": 0
+    },
+    {
+        "id": "25979",
+        "name": "Yale Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.668627,
+        "lon": -104.927157,
+        "type": 0
+    },
+    {
+        "id": "25434",
+        "name": "Union Station Track 12",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.755125,
+        "lon": -105.003351,
+        "type": 0
+    },
+    {
+        "id": "34575",
+        "name": "Iliff Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.672974,
+        "lon": -104.827232,
+        "type": 0
+    },
+    {
+        "id": "34004",
+        "name": "Dayton Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.642743,
+        "lon": -104.878433,
+        "type": 0
+    },
+    {
+        "id": "33965",
+        "name": "Perry Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.734688,
+        "lon": -105.039597,
+        "type": 0
+    },
+    {
+        "id": "34577",
+        "name": "Florida Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.690358,
+        "lon": -104.82847,
+        "type": 0
+    },
+    {
+        "id": "34588",
+        "name": "Fitzsimons Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.754789,
+        "lon": -104.839819,
+        "type": 0
+    },
+    {
+        "id": "35211",
+        "name": "Ridgegate Parkway Station",
+        "desc": "Vehicles Travelling Southwest",
+        "lat": 39.520244,
+        "lon": -104.865725,
+        "type": 0
+    },
+    {
+        "id": "33788",
+        "name": "39th St / Table Mesa",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.985522,
+        "lon": -105.248455,
+        "type": 1
+    },
+    {
+        "id": "33896",
+        "name": "Thornton/Northglenn",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.921579,
+        "lon": -104.962164,
+        "type": 0
+    },
+    {
+        "id": "33893",
+        "name": "Broomfield",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.923692,
+        "lon": -105.075206,
+        "type": 0
+    },
+    {
+        "id": "33902",
+        "name": "Lone Tree",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.548315,
+        "lon": -104.894618,
+        "type": 0
+    },
+    {
+        "id": "33890",
+        "name": "South Jeffco",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.614346,
+        "lon": -105.093146,
+        "type": 0
+    },
+    {
+        "id": "34142",
+        "name": "Golden",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.757518,
+        "lon": -105.222901,
+        "type": 1
+    },
+    {
+        "id": "26346",
+        "name": "Dry Creek Station Gate C",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.578883,
+        "lon": -104.873712,
+        "type": 0
+    },
+    {
+        "id": "34111",
+        "name": "Empower Field at Mile High",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.743181,
+        "lon": -105.013483,
+        "type": 1
+    },
+    {
+        "id": "33838",
+        "name": "Pinery",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.457477,
+        "lon": -104.756527,
+        "type": 1
+    },
+    {
+        "id": "34145",
+        "name": "Race / Davies",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.590816,
+        "lon": -104.965729,
+        "type": 1
+    },
+    {
+        "id": "33834",
+        "name": "Olympic Park",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.667301,
+        "lon": -104.807628,
+        "type": 1
+    },
+    {
+        "id": "34679",
+        "name": "Florida Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.689917,
+        "lon": -104.828099,
+        "type": 1
+    },
+    {
+        "id": "stop_id",
+        "name": "stop_name",
+        "desc": "stop_desc",
+        "lat": null,
+        "lon": null,
+        "type": null
+    },
+    {
+        "id": "25974",
+        "name": "Dayton Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.643119,
+        "lon": -104.87767,
+        "type": 0
+    },
+    {
+        "id": "34582",
+        "name": "2nd & Abilene Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.71895,
+        "lon": -104.825879,
+        "type": 0
+    },
+    {
+        "id": "24882",
+        "name": "Evans Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.678143,
+        "lon": -104.992653,
+        "type": 0
+    },
+    {
+        "id": "33562",
+        "name": "Lamar Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.736683,
+        "lon": -105.066872,
+        "type": 0
+    },
+    {
+        "id": "23042",
+        "name": "Alameda Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.708706,
+        "lon": -104.993143,
+        "type": 0
+    },
+    {
+        "id": "34006",
+        "name": "County Line Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.562189,
+        "lon": -104.872231,
+        "type": 0
+    },
+    {
+        "id": "25973",
+        "name": "Lincoln Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.54579,
+        "lon": -104.86963,
+        "type": 0
+    },
+    {
+        "id": "23060",
+        "name": "Alameda Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.708196,
+        "lon": -104.992785,
+        "type": 0
+    },
+    {
+        "id": "25430",
+        "name": "Union Station Track 11",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.755422,
+        "lon": -105.00297,
+        "type": 0
+    },
+    {
+        "id": "34581",
+        "name": "2nd & Abilene Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.719781,
+        "lon": -104.825491,
+        "type": 0
+    },
+    {
+        "id": "34015",
+        "name": "Louisiana & Pearl Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.693283,
+        "lon": -104.978684,
+        "type": 0
+    },
+    {
+        "id": "25978",
+        "name": "Southmoor Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.648226,
+        "lon": -104.9161,
+        "type": 0
+    },
+    {
+        "id": "33959",
+        "name": "Lamar Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.736662,
+        "lon": -105.06591,
+        "type": 0
+    },
+    {
+        "id": "33960",
+        "name": "Oak Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.73717,
+        "lon": -105.119452,
+        "type": 0
+    },
+    {
+        "id": "34586",
+        "name": "Colfax Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.739748,
+        "lon": -104.826916,
+        "type": 0
+    },
+    {
+        "id": "23043",
+        "name": "10th & Osage Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.732222,
+        "lon": -105.005654,
+        "type": 0
+    },
+    {
+        "id": "33713",
+        "name": "Evans Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.677962,
+        "lon": -104.992465,
+        "type": 1
+    },
+    {
+        "id": "33851",
+        "name": "Wadsworth / Hampden",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.650897,
+        "lon": -105.082726,
+        "type": 1
+    },
+    {
+        "id": "33719",
+        "name": "Nine Mile Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.658414,
+        "lon": -104.845517,
+        "type": 1
+    },
+    {
+        "id": "34508",
+        "name": "Pecos Junction Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.805421,
+        "lon": -105.003505,
+        "type": 1
+    },
+    {
+        "id": "35353",
+        "name": "Platte Valley",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.725296,
+        "lon": -105.00561,
+        "type": 0
+    },
+    {
+        "id": "34677",
+        "name": "Iliff Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.673511,
+        "lon": -104.826044,
+        "type": 1
+    },
+    {
+        "id": "33820",
+        "name": "Longmont",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.149505,
+        "lon": -105.103068,
+        "type": 1
+    },
+    {
+        "id": "34454",
+        "name": "Boulder Junction at Depot Square Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.024131,
+        "lon": -105.25162,
+        "type": 1
+    },
+    {
+        "id": "34685",
+        "name": "61st / Pena Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.806945,
+        "lon": -104.783907,
+        "type": 1
+    },
+    {
+        "id": "35362",
+        "name": "48th Ave/Brighton Blvd @ Nat`L Western Ctr",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.784667,
+        "lon": -104.967472,
+        "type": 1
+    },
+    {
+        "id": "35366",
+        "name": "Northglenn / 112th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.902677,
+        "lon": -104.959583,
+        "type": 1
+    },
+    {
+        "id": "33836",
+        "name": "Parker",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.523334,
+        "lon": -104.763812,
+        "type": 1
+    },
+    {
+        "id": "33931",
+        "name": "Meridian",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.542472,
+        "lon": -104.860631,
+        "type": 0
+    },
+    {
+        "id": "33732",
+        "name": "Thornton East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.855342,
+        "lon": -104.985899,
+        "type": 1
+    },
+    {
+        "id": "26048",
+        "name": "Wagon Road PnR Gate A",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.912257,
+        "lon": -104.993695,
+        "type": 0
+    },
+    {
+        "id": "26291",
+        "name": "Dry Creek Station Gate B",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.578878,
+        "lon": -104.878904,
+        "type": 0
+    },
+    {
+        "id": "33835",
+        "name": "Paradise Hills",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.704446,
+        "lon": -105.250268,
+        "type": 1
+    },
+    {
+        "id": "34140",
+        "name": "Federal / Evans",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.678787,
+        "lon": -105.025263,
+        "type": 1
+    },
+    {
+        "id": "33737",
+        "name": "US 36 / Church Ranch Station East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.89013,
+        "lon": -105.07321,
+        "type": 1
+    },
+    {
+        "id": "34680",
+        "name": "2nd Ave & Abilene Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.719484,
+        "lon": -104.825073,
+        "type": 1
+    },
+    {
+        "id": "35383",
+        "name": "I-25 & Broadway Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.701779,
+        "lon": -104.990332,
+        "type": 0
+    },
+    {
+        "id": "34109",
+        "name": "10th / Osage Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.73215,
+        "lon": -105.0055,
+        "type": 1
+    },
+    {
+        "id": "33846",
+        "name": "US 285 / Mountain View",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.502526,
+        "lon": -105.322924,
+        "type": 1
+    },
+    {
+        "id": "26183",
+        "name": "Littleton / Mineral Station Gate E",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.581089,
+        "lon": -105.025508,
+        "type": 0
+    },
+    {
+        "id": "33711",
+        "name": "Dry Creek Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.579487,
+        "lon": -104.877416,
+        "type": 1
+    },
+    {
+        "id": "25980",
+        "name": "Colorado Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.679672,
+        "lon": -104.937714,
+        "type": 0
+    },
+    {
+        "id": "35209",
+        "name": "Lone Tree City Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.528023,
+        "lon": -104.863143,
+        "type": 0
+    },
+    {
+        "id": "34012",
+        "name": "Yale Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.669084,
+        "lon": -104.927293,
+        "type": 0
+    },
+    {
+        "id": "33558",
+        "name": "Decatur / Federal Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.737129,
+        "lon": -105.024452,
+        "type": 0
+    },
+    {
+        "id": "25436",
+        "name": "Englewood Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.655291,
+        "lon": -105.000065,
+        "type": 0
+    },
+    {
+        "id": "33560",
+        "name": "Perry Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.73479,
+        "lon": -105.040409,
+        "type": 0
+    },
+    {
+        "id": "33948",
+        "name": "Jeffco Government Center Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.726318,
+        "lon": -105.201046,
+        "type": 0
+    },
+    {
+        "id": "33966",
+        "name": "Red Rocks Community College Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.725014,
+        "lon": -105.151782,
+        "type": 0
+    },
+    {
+        "id": "35204",
+        "name": "Sky Ridge Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.532059,
+        "lon": -104.870263,
+        "type": 0
+    },
+    {
+        "id": "34232",
+        "name": "Decatur-Federal Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.737418,
+        "lon": -105.024806,
+        "type": 1
+    },
+    {
+        "id": "26557",
+        "name": "Lincoln Station CnR",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.545735,
+        "lon": -104.86887,
+        "type": 0
+    },
+    {
+        "id": "34251",
+        "name": "60th / Dahlia",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.805189,
+        "lon": -104.92926,
+        "type": 1
+    },
+    {
+        "id": "33887",
+        "name": "Longmont",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.1692,
+        "lon": -105.113304,
+        "type": 0
+    },
+    {
+        "id": "34502",
+        "name": "Peoria Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.766094,
+        "lon": -104.852057,
+        "type": 1
+    },
+    {
+        "id": "33724",
+        "name": "Colfax at Auraria Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.740277,
+        "lon": -105.001338,
+        "type": 1
+    },
+    {
+        "id": "33935",
+        "name": "Parker",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.524121,
+        "lon": -104.763622,
+        "type": 0
+    },
+    {
+        "id": "33786",
+        "name": "104th Ave / Revere",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.884829,
+        "lon": -104.843141,
+        "type": 1
+    },
+    {
+        "id": "33819",
+        "name": "Lincoln / Jordan",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.534167,
+        "lon": -104.795119,
+        "type": 1
+    },
+    {
+        "id": "34112",
+        "name": "Auraria West Campus Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.742207,
+        "lon": -105.011133,
+        "type": 1
+    },
+    {
+        "id": "33837",
+        "name": "Pine Junction",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.467052,
+        "lon": -105.396773,
+        "type": 1
+    },
+    {
+        "id": "33736",
+        "name": "US 36 / Church Ranch Station West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.890279,
+        "lon": -105.075173,
+        "type": 1
+    },
+    {
+        "id": "35244",
+        "name": "Lone Tree City Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.527669,
+        "lon": -104.86294,
+        "type": 1
+    },
+    {
+        "id": "34506",
+        "name": "60th / Sheridan - Arvada Gold Strike Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.804374,
+        "lon": -105.049081,
+        "type": 1
+    },
+    {
+        "id": "26610",
+        "name": "Parker CnR",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.523557,
+        "lon": -104.763569,
+        "type": 0
+    },
+    {
+        "id": "33531",
+        "name": "US 36 & Broomfield Station Gate F  {1105}",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.906755,
+        "lon": -105.086355,
+        "type": 0
+    },
+    {
+        "id": "33700",
+        "name": "Downtown Boulder Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.016966,
+        "lon": -105.27665,
+        "type": 1
+    },
+    {
+        "id": "33726",
+        "name": "Oxford-City of Sheridan Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.643421,
+        "lon": -105.004535,
+        "type": 1
+    },
+    {
+        "id": "33715",
+        "name": "Littleton / Downtown Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.611904,
+        "lon": -105.01521,
+        "type": 1
+    },
+    {
+        "id": "33840",
+        "name": "8th / Coffman",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.17211,
+        "lon": -105.104345,
+        "type": 1
+    },
+    {
+        "id": "34259",
+        "name": "US 36 / Flatiron Station West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.93249,
+        "lon": -105.123607,
+        "type": 1
+    },
+    {
+        "id": "33844",
+        "name": "Tantra Dr / Table Mesa",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.986328,
+        "lon": -105.239925,
+        "type": 1
+    },
+    {
+        "id": "35354",
+        "name": "Wagon Road",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.912501,
+        "lon": -104.994253,
+        "type": 0
+    },
+    {
+        "id": "33725",
+        "name": "Louisiana / Pearl Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.692708,
+        "lon": -104.97812,
+        "type": 1
+    },
+    {
+        "id": "24892",
+        "name": "Oxford - City of Sheridan Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.64339,
+        "lon": -105.00457,
+        "type": 0
+    },
+    {
+        "id": "34587",
+        "name": "Fitzsimons Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.755008,
+        "lon": -104.840933,
+        "type": 0
+    },
+    {
+        "id": "25990",
+        "name": "Arapahoe at Village Center Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.600301,
+        "lon": -104.888555,
+        "type": 0
+    },
+    {
+        "id": "24890",
+        "name": "Englewood Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.655904,
+        "lon": -104.999736,
+        "type": 0
+    },
+    {
+        "id": "34011",
+        "name": "Southmoor Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.648971,
+        "lon": -104.916439,
+        "type": 0
+    },
+    {
+        "id": "34007",
+        "name": "Dry Creek Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.579326,
+        "lon": -104.876957,
+        "type": 0
+    },
+    {
+        "id": "34574",
+        "name": "Iliff Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.673649,
+        "lon": -104.826472,
+        "type": 0
+    },
+    {
+        "id": "33566",
+        "name": "Federal Center Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.720037,
+        "lon": -105.12964,
+        "type": 0
+    },
+    {
+        "id": "33568",
+        "name": "Jeffco Government Center Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.726394,
+        "lon": -105.200985,
+        "type": 0
+    },
+    {
+        "id": "25428",
+        "name": "Empower Field at Mile High Station",
+        "desc": "Vehicles Travelling Northeast",
+        "lat": 39.743543,
+        "lon": -105.013526,
+        "type": 0
+    },
+    {
+        "id": "25991",
+        "name": "Belleview Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.627686,
+        "lon": -104.904568,
+        "type": 0
+    },
+    {
+        "id": "33561",
+        "name": "Sheridan Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.735147,
+        "lon": -105.053616,
+        "type": 0
+    },
+    {
+        "id": "25988",
+        "name": "County Line Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.561818,
+        "lon": -104.872282,
+        "type": 0
+    },
+    {
+        "id": "34199",
+        "name": "Golden",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.726779,
+        "lon": -105.201184,
+        "type": 0
+    },
+    {
+        "id": "33741",
+        "name": "Federal Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.719005,
+        "lon": -105.129257,
+        "type": 1
+    },
+    {
+        "id": "33744",
+        "name": "US 36 / Flatiron Station East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.933697,
+        "lon": -105.123056,
+        "type": 1
+    },
+    {
+        "id": "34682",
+        "name": "Colfax Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.74083,
+        "lon": -104.826398,
+        "type": 1
+    },
+    {
+        "id": "35352",
+        "name": "Grant St & E 140th Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.947938,
+        "lon": -104.987108,
+        "type": 0
+    },
+    {
+        "id": "34110",
+        "name": "Ball Arena / Elitch Gardens Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.748691,
+        "lon": -105.009234,
+        "type": 1
+    },
+    {
+        "id": "35351",
+        "name": "Grant St & E 143rd Pl",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.953152,
+        "lon": -104.982162,
+        "type": 0
+    },
+    {
+        "id": "34234",
+        "name": "Perry Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.734568,
+        "lon": -105.040036,
+        "type": 1
+    },
+    {
+        "id": "33847",
+        "name": "US 287 / 21st Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.197323,
+        "lon": -105.102972,
+        "type": 1
+    },
+    {
+        "id": "33722",
+        "name": "University of Denver Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.684914,
+        "lon": -104.964677,
+        "type": 1
+    },
+    {
+        "id": "34147",
+        "name": "Ulster / Tufts",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.630961,
+        "lon": -104.896356,
+        "type": 1
+    },
+    {
+        "id": "33710",
+        "name": "Dayton Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.643677,
+        "lon": -104.878653,
+        "type": 1
+    },
+    {
+        "id": "26293",
+        "name": "Belleview Station Gate A",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.627557,
+        "lon": -104.904545,
+        "type": 0
+    },
+    {
+        "id": "34136",
+        "name": "Cherry Creek",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.718122,
+        "lon": -104.957349,
+        "type": 1
+    },
+    {
+        "id": "33745",
+        "name": "US 36 / Broomfield Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.906436,
+        "lon": -105.086374,
+        "type": 1
+    },
+    {
+        "id": "33721",
+        "name": "Southmoor Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.648898,
+        "lon": -104.915046,
+        "type": 1
+    },
+    {
+        "id": "33727",
+        "name": "Union Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.754338,
+        "lon": -105.00214,
+        "type": 1
+    },
+    {
+        "id": "33888",
+        "name": "Brighton",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.983812,
+        "lon": -104.780645,
+        "type": 0
+    },
+    {
+        "id": "33789",
+        "name": "27th Way / Broadway",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.99712,
+        "lon": -105.26104,
+        "type": 1
+    },
+    {
+        "id": "33733",
+        "name": "Thornton West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.8553,
+        "lon": -104.987905,
+        "type": 1
+    },
+    {
+        "id": "35363",
+        "name": "Commerce City / 72nd Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.826497,
+        "lon": -104.942292,
+        "type": 1
+    },
+    {
+        "id": "33706",
+        "name": "Belleview Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.627524,
+        "lon": -104.904746,
+        "type": 1
+    },
+    {
+        "id": "33832",
+        "name": "Nederland",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.962279,
+        "lon": -105.512878,
+        "type": 1
+    },
+    {
+        "id": "34009",
+        "name": "Orchard Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.613872,
+        "lon": -104.896351,
+        "type": 0
+    },
+    {
+        "id": "33967",
+        "name": "Sheridan Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.735114,
+        "lon": -105.052794,
+        "type": 0
+    },
+    {
+        "id": "34010",
+        "name": "Belleview Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.628012,
+        "lon": -104.904639,
+        "type": 0
+    },
+    {
+        "id": "34583",
+        "name": "13th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.735376,
+        "lon": -104.823497,
+        "type": 0
+    },
+    {
+        "id": "33970",
+        "name": "Wadsworth Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.736607,
+        "lon": -105.080761,
+        "type": 0
+    },
+    {
+        "id": "25983",
+        "name": "Orchard Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.613379,
+        "lon": -104.896079,
+        "type": 0
+    },
+    {
+        "id": "24894",
+        "name": "Littleton / Downtown Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.612258,
+        "lon": -105.014684,
+        "type": 0
+    },
+    {
+        "id": "25431",
+        "name": "Auraria West Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.741316,
+        "lon": -105.010685,
+        "type": 0
+    },
+    {
+        "id": "34578",
+        "name": "Florida Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.689534,
+        "lon": -104.828474,
+        "type": 0
+    },
+    {
+        "id": "34580",
+        "name": "Aurora Metro Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.70843,
+        "lon": -104.819136,
+        "type": 0
+    },
+    {
+        "id": "35207",
+        "name": "Lone Tree City Center Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.527318,
+        "lon": -104.863268,
+        "type": 0
+    },
+    {
+        "id": "25987",
+        "name": "Nine Mile Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.657552,
+        "lon": -104.845102,
+        "type": 0
+    },
+    {
+        "id": "25433",
+        "name": "Ball Arena / Elitch Gardens Station",
+        "desc": "Vehicles Travelling Southwest",
+        "lat": 39.748568,
+        "lon": -105.009966,
+        "type": 0
+    },
+    {
+        "id": "33792",
+        "name": "Bergen Park",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.691131,
+        "lon": -105.363125,
+        "type": 1
+    },
+    {
+        "id": "34504",
+        "name": "Wheat Ridge / Ward Road Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.789544,
+        "lon": -105.13327,
+        "type": 1
+    },
+    {
+        "id": "34238",
+        "name": "Garrison Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.736531,
+        "lon": -105.099528,
+        "type": 1
+    },
+    {
+        "id": "33712",
+        "name": "Englewood Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.655506,
+        "lon": -104.999664,
+        "type": 1
+    },
+    {
+        "id": "33933",
+        "name": "Orchard",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.605961,
+        "lon": -104.90393,
+        "type": 0
+    },
+    {
+        "id": "34503",
+        "name": "Denver Airport Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.847913,
+        "lon": -104.673943,
+        "type": 1
+    },
+    {
+        "id": "34241",
+        "name": "Jefferson CO Government-Golden Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.726354,
+        "lon": -105.199734,
+        "type": 1
+    },
+    {
+        "id": "34500",
+        "name": "40th / Colorado Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.775841,
+        "lon": -104.944754,
+        "type": 1
+    },
+    {
+        "id": "34678",
+        "name": "Aurora Metro Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.709069,
+        "lon": -104.818422,
+        "type": 1
+    },
+    {
+        "id": "34236",
+        "name": "Lamar Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.736672,
+        "lon": -105.066483,
+        "type": 1
+    },
+    {
+        "id": "35347",
+        "name": "Orchard Pkwy & W 144th Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.955825,
+        "lon": -104.991974,
+        "type": 0
+    },
+    {
+        "id": "33932",
+        "name": "North Inverness",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.579347,
+        "lon": -104.867717,
+        "type": 0
+    },
+    {
+        "id": "33816",
+        "name": "Hwy 119 / Niwot",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.101973,
+        "lon": -105.176797,
+        "type": 1
+    },
+    {
+        "id": "35245",
+        "name": "Ridgegate Parkway Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.51936,
+        "lon": -104.865365,
+        "type": 1
+    },
+    {
+        "id": "33704",
+        "name": "Alameda Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.70892,
+        "lon": -104.992883,
+        "type": 1
+    },
+    {
+        "id": "34239",
+        "name": "Oak Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.737381,
+        "lon": -105.119365,
+        "type": 1
+    },
+    {
+        "id": "33841",
+        "name": "Sh 72 / Sh 93",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.865537,
+        "lon": -105.239732,
+        "type": 1
+    },
+    {
+        "id": "34144",
+        "name": "Lakewood Commons",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.708029,
+        "lon": -105.085237,
+        "type": 1
+    },
+    {
+        "id": "34137",
+        "name": "Colfax / Federal",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.741316,
+        "lon": -105.02405,
+        "type": 1
+    },
+    {
+        "id": "35243",
+        "name": "Sky Ridge Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.532268,
+        "lon": -104.869854,
+        "type": 1
+    },
+    {
+        "id": "33818",
+        "name": "Lafayette",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.988933,
+        "lon": -105.089872,
+        "type": 1
+    },
+    {
+        "id": "33703",
+        "name": "30th / Downing Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.758977,
+        "lon": -104.973786,
+        "type": 1
+    },
+    {
+        "id": "33686",
+        "name": "I-25 / Broadway Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.701235,
+        "lon": -104.98886,
+        "type": 1
+    },
+    {
+        "id": "33735",
+        "name": "US 36 / Sheridan Station West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.856981,
+        "lon": -105.054209,
+        "type": 1
+    },
+    {
+        "id": "34237",
+        "name": "Lakewood-Wadsworth Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.736884,
+        "lon": -105.081096,
+        "type": 1
+    },
+    {
+        "id": "35365",
+        "name": "Thornton Crossroads / 104th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.881986,
+        "lon": -104.940968,
+        "type": 1
+    },
+    {
+        "id": "33743",
+        "name": "Table Mesa",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.986443,
+        "lon": -105.232995,
+        "type": 1
+    },
+    {
+        "id": "33811",
+        "name": "Highlands Ranch Town Center",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.547521,
+        "lon": -104.997432,
+        "type": 1
+    },
+    {
+        "id": "34235",
+        "name": "Sheridan Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.735028,
+        "lon": -105.053634,
+        "type": 1
+    },
+    {
+        "id": "25981",
+        "name": "University of Denver Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.685254,
+        "lon": -104.964706,
+        "type": 0
+    },
+    {
+        "id": "33563",
+        "name": "Wadsworth Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.736664,
+        "lon": -105.082063,
+        "type": 0
+    },
+    {
+        "id": "23041",
+        "name": "I-25 & Broadway Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.701958,
+        "lon": -104.990075,
+        "type": 0
+    },
+    {
+        "id": "34014",
+        "name": "University of Denver Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.685437,
+        "lon": -104.965175,
+        "type": 0
+    },
+    {
+        "id": "33958",
+        "name": "Decatur / Federal Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.737394,
+        "lon": -105.023633,
+        "type": 0
+    },
+    {
+        "id": "23061",
+        "name": "I-25 & Broadway Station Center Track",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.701418,
+        "lon": -104.990111,
+        "type": 0
+    },
+    {
+        "id": "35205",
+        "name": "Sky Ridge Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.532536,
+        "lon": -104.870481,
+        "type": 0
+    },
+    {
+        "id": "34744",
+        "name": "Peoria Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.767176,
+        "lon": -104.849977,
+        "type": 0
+    },
+    {
+        "id": "25989",
+        "name": "Dry Creek Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.579064,
+        "lon": -104.876783,
+        "type": 0
+    },
+    {
+        "id": "34745",
+        "name": "Peoria Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.767391,
+        "lon": -104.851022,
+        "type": 0
+    },
+    {
+        "id": "25438",
+        "name": "Littleton / Downtown Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.611761,
+        "lon": -105.015065,
+        "type": 0
+    },
+    {
+        "id": "33565",
+        "name": "Oak Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.7374,
+        "lon": -105.120463,
+        "type": 0
+    },
+    {
+        "id": "25437",
+        "name": "Oxford - City of Sheridan Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.642554,
+        "lon": -105.004967,
+        "type": 0
+    },
+    {
+        "id": "35350",
+        "name": "Lincoln St & E 143rd Pl",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.954106,
+        "lon": -104.984539,
+        "type": 0
+    },
+    {
+        "id": "34233",
+        "name": "Knox Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.735434,
+        "lon": -105.03288,
+        "type": 1
+    },
+    {
+        "id": "33708",
+        "name": "Colorado Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.679398,
+        "lon": -104.937673,
+        "type": 1
+    },
+    {
+        "id": "33793",
+        "name": "Aspen Park",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.541051,
+        "lon": -105.298494,
+        "type": 1
+    },
+    {
+        "id": "33707",
+        "name": "Broadway Marketplace",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.708879,
+        "lon": -104.989493,
+        "type": 1
+    },
+    {
+        "id": "33817",
+        "name": "Ken Caryl / C-470",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.581332,
+        "lon": -105.136671,
+        "type": 1
+    },
+    {
+        "id": "34198",
+        "name": "Green Mountain",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.719005,
+        "lon": -105.128045,
+        "type": 0
+    },
+    {
+        "id": "34134",
+        "name": "Bear Valley",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.655993,
+        "lon": -105.052943,
+        "type": 1
+    },
+    {
+        "id": "33716",
+        "name": "Littleton / Mineral Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.58039,
+        "lon": -105.02611,
+        "type": 1
+    },
+    {
+        "id": "33807",
+        "name": "C470 / University Blvd",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.561203,
+        "lon": -104.96119,
+        "type": 1
+    },
+    {
+        "id": "34683",
+        "name": "Fitzsimons Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.755018,
+        "lon": -104.838018,
+        "type": 1
+    },
+    {
+        "id": "35478",
+        "name": "North Broomfield",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.978664,
+        "lon": -105.034893,
+        "type": 0
+    },
+    {
+        "id": "34501",
+        "name": "Central Park Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.769723,
+        "lon": -104.892912,
+        "type": 1
+    },
+    {
+        "id": "33934",
+        "name": "South Inverness",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.559573,
+        "lon": -104.859742,
+        "type": 0
+    },
+    {
+        "id": "34706",
+        "name": "US 36 / McCaslin Station West Side",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.957994,
+        "lon": -105.168557,
+        "type": 1
+    },
+    {
+        "id": "25429",
+        "name": "Ball Arena / Elitch Gardens Station",
+        "desc": "Vehicles Travelling Northeast",
+        "lat": 39.748736,
+        "lon": -105.00943,
+        "type": 0
+    },
+    {
+        "id": "33941",
+        "name": "Knox Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.735353,
+        "lon": -105.032364,
+        "type": 0
+    },
+    {
+        "id": "25435",
+        "name": "Evans Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.677331,
+        "lon": -104.992946,
+        "type": 0
+    },
+    {
+        "id": "33567",
+        "name": "Red Rocks Community College Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.725078,
+        "lon": -105.152812,
+        "type": 0
+    },
+    {
+        "id": "34585",
+        "name": "Colfax Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.740689,
+        "lon": -104.826999,
+        "type": 0
+    },
+    {
+        "id": "25439",
+        "name": "Littleton / Mineral Ave Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.579865,
+        "lon": -105.025202,
+        "type": 0
+    },
+    {
+        "id": "25432",
+        "name": "Empower Field at Mile High Station",
+        "desc": "Vehicles Travelling Southwest",
+        "lat": 39.743342,
+        "lon": -105.012761,
+        "type": 0
+    },
+    {
+        "id": "34003",
+        "name": "Nine Mile Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.657344,
+        "lon": -104.845575,
+        "type": 0
+    },
+    {
+        "id": "25427",
+        "name": "Auraria West Station",
+        "desc": "Vehicles Travelling Northwest",
+        "lat": 39.742027,
+        "lon": -105.010937,
+        "type": 0
+    },
+    {
+        "id": "34505",
+        "name": "Arvada Ridge Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.791993,
+        "lon": -105.110976,
+        "type": 1
+    },
+    {
+        "id": "34684",
+        "name": "38th / Blake Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.770729,
+        "lon": -104.9734,
+        "type": 1
+    },
+    {
+        "id": "34549",
+        "name": "Westminster Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.823124,
+        "lon": -105.027939,
+        "type": 1
+    },
+    {
+        "id": "33791",
+        "name": "Boulder Church of The Nazarene",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.989328,
+        "lon": -105.255235,
+        "type": 1
+    },
+    {
+        "id": "26606",
+        "name": "Orchard Station CnR",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.613556,
+        "lon": -104.896318,
+        "type": 0
+    },
+    {
+        "id": "35364",
+        "name": "Original Thornton / 88th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.858851,
+        "lon": -104.952449,
+        "type": 1
+    },
+    {
+        "id": "34681",
+        "name": "13th Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.734452,
+        "lon": -104.824601,
+        "type": 1
+    },
+    {
+        "id": "33790",
+        "name": "Alameda / Havana",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.712073,
+        "lon": -104.864438,
+        "type": 1
+    },
+    {
+        "id": "33709",
+        "name": "County Line Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.561964,
+        "lon": -104.870532,
+        "type": 1
+    },
+    {
+        "id": "33842",
+        "name": "Smoky Hill / Picadilly",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.608862,
+        "lon": -104.746141,
+        "type": 1
+    },
+    {
+        "id": "34507",
+        "name": "Clear Creek / Federal Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.804819,
+        "lon": -105.022624,
+        "type": 1
+    },
+    {
+        "id": "33739",
+        "name": "US 36 / McCaslin Station East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.959154,
+        "lon": -105.167602,
+        "type": 1
+    },
+    {
+        "id": "35367",
+        "name": "Eastlake /124th Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.922525,
+        "lon": -104.962657,
+        "type": 1
+    },
+    {
+        "id": "33723",
+        "name": "Yale Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.668779,
+        "lon": -104.927566,
+        "type": 1
+    },
+    {
+        "id": "33720",
+        "name": "Orchard Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.6134,
+        "lon": -104.89641,
+        "type": 1
+    },
+    {
+        "id": "33889",
+        "name": "Evergreen",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.654788,
+        "lon": -105.340412,
+        "type": 0
+    },
+    {
+        "id": "33848",
+        "name": "US 287 / Niwot Rd",
+        "desc": "Vehicles Travelling North",
+        "lat": 40.102022,
+        "lon": -105.103487,
+        "type": 1
+    },
+    {
+        "id": "33845",
+        "name": "US 285 / Twin Forks",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.607118,
+        "lon": -105.229658,
+        "type": 1
+    },
+    {
+        "id": "34548",
+        "name": "41st / Fox Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.772741,
+        "lon": -104.995362,
+        "type": 1
+    },
+    {
+        "id": "33734",
+        "name": "US 36 / Sheridan Station East Side",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.857837,
+        "lon": -105.052841,
+        "type": 1
+    },
+    {
+        "id": "33746",
+        "name": "Wagon Road",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.912353,
+        "lon": -104.994181,
+        "type": 1
+    },
+    {
+        "id": "33957",
+        "name": "Garrison Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.736524,
+        "lon": -105.099125,
+        "type": 0
+    },
+    {
+        "id": "33564",
+        "name": "Garrison Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.736608,
+        "lon": -105.099811,
+        "type": 0
+    },
+    {
+        "id": "34584",
+        "name": "13th Ave Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.73446,
+        "lon": -104.82369,
+        "type": 0
+    },
+    {
+        "id": "25982",
+        "name": "Louisiana & Pearl Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.692825,
+        "lon": -104.978216,
+        "type": 0
+    },
+    {
+        "id": "34579",
+        "name": "Aurora Metro Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.708951,
+        "lon": -104.818993,
+        "type": 0
+    },
+    {
+        "id": "35212",
+        "name": "Ridgegate Parkway Station",
+        "desc": "Vehicles Travelling Northeast",
+        "lat": 39.520791,
+        "lon": -104.86521,
+        "type": 0
+    },
+    {
+        "id": "34013",
+        "name": "Colorado Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.679757,
+        "lon": -104.938313,
+        "type": 0
+    },
+    {
+        "id": "34005",
+        "name": "Lincoln Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.546353,
+        "lon": -104.869622,
+        "type": 0
+    },
+    {
+        "id": "23059",
+        "name": "10th & Osage Station",
+        "desc": "Vehicles Travelling Southeast",
+        "lat": 39.731664,
+        "lon": -105.005549,
+        "type": 0
+    },
+    {
+        "id": "33559",
+        "name": "Knox Station",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.735687,
+        "lon": -105.033303,
+        "type": 0
+    },
+    {
+        "id": "33955",
+        "name": "Federal Center Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.719895,
+        "lon": -105.128448,
+        "type": 0
+    },
+    {
+        "id": "34008",
+        "name": "Arapahoe at Village Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.600442,
+        "lon": -104.888539,
+        "type": 0
+    },
+    {
+        "id": "34240",
+        "name": "Red Rocks College Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.724954,
+        "lon": -105.149955,
+        "type": 1
+    },
+    {
+        "id": "33898",
+        "name": "Arapahoe",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.612743,
+        "lon": -104.866783,
+        "type": 0
+    },
+    {
+        "id": "33899",
+        "name": "Belleview",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.624023,
+        "lon": -104.891007,
+        "type": 0
+    },
+    {
+        "id": "33701",
+        "name": "Civic Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.740986,
+        "lon": -104.986849,
+        "type": 1
+    },
+    {
+        "id": "33740",
+        "name": "40th  / Airport - Gateway Park Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.76983,
+        "lon": -104.785452,
+        "type": 1
+    },
+    {
+        "id": "26190",
+        "name": "Arapahoe at Village Center Station Gate F",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.601459,
+        "lon": -104.888034,
+        "type": 0
+    },
+    {
+        "id": "33891",
+        "name": "Federal Heights",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.870106,
+        "lon": -105.006772,
+        "type": 0
+    },
+    {
+        "id": "33843",
+        "name": "Southwest Plaza",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.613689,
+        "lon": -105.091964,
+        "type": 1
+    },
+    {
+        "id": "34893",
+        "name": "Superior",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.95769,
+        "lon": -105.169162,
+        "type": 0
+    },
+    {
+        "id": "33714",
+        "name": "Lincoln Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.546147,
+        "lon": -104.869738,
+        "type": 1
+    },
+    {
+        "id": "33649",
+        "name": "Federal Center Station Gate B",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.719828,
+        "lon": -105.128205,
+        "type": 0
+    },
+    {
+        "id": "26313",
+        "name": "County Line Station Gate B",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.561862,
+        "lon": -104.870092,
+        "type": 0
+    },
+    {
+        "id": "33810",
+        "name": "Genesee Park",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.711016,
+        "lon": -105.294117,
+        "type": 1
+    },
+    {
+        "id": "33833",
+        "name": "Olde Town Arvada",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.798974,
+        "lon": -105.078976,
+        "type": 1
+    },
+    {
+        "id": "33809",
+        "name": "Evergreen",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.639149,
+        "lon": -105.332193,
+        "type": 1
+    },
+    {
+        "id": "33850",
+        "name": "US 85 / Bridge St",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.984264,
+        "lon": -104.823496,
+        "type": 1
+    },
+    {
+        "id": "34129",
+        "name": "106th / Melody",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.888698,
+        "lon": -104.995115,
+        "type": 1
+    },
+    {
+        "id": "33894",
+        "name": "Louisville",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.961844,
+        "lon": -105.166505,
+        "type": 0
+    },
+    {
+        "id": "33900",
+        "name": "Dry Creek",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.580662,
+        "lon": -104.900508,
+        "type": 0
+    },
+    {
+        "id": "35348",
+        "name": "Delaware St & W 146th Ave",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.960077,
+        "lon": -104.99015,
+        "type": 0
+    },
+    {
+        "id": "33705",
+        "name": "Arapahoe at Village Center Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.601315,
+        "lon": -104.887494,
+        "type": 1
+    },
+    {
+        "id": "24896",
+        "name": "Littleton / Mineral Ave Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.580413,
+        "lon": -105.024812,
+        "type": 0
+    },
+    {
+        "id": "25979",
+        "name": "Yale Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.668627,
+        "lon": -104.927157,
+        "type": 0
+    },
+    {
+        "id": "25434",
+        "name": "Union Station Track 12",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.755125,
+        "lon": -105.003351,
+        "type": 0
+    },
+    {
+        "id": "34575",
+        "name": "Iliff Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.672974,
+        "lon": -104.827232,
+        "type": 0
+    },
+    {
+        "id": "34004",
+        "name": "Dayton Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.642743,
+        "lon": -104.878433,
+        "type": 0
+    },
+    {
+        "id": "33965",
+        "name": "Perry Station",
+        "desc": "Vehicles Travelling East",
+        "lat": 39.734688,
+        "lon": -105.039597,
+        "type": 0
+    },
+    {
+        "id": "34577",
+        "name": "Florida Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.690358,
+        "lon": -104.82847,
+        "type": 0
+    },
+    {
+        "id": "34588",
+        "name": "Fitzsimons Station",
+        "desc": "Vehicles Travelling South",
+        "lat": 39.754789,
+        "lon": -104.839819,
+        "type": 0
+    },
+    {
+        "id": "35211",
+        "name": "Ridgegate Parkway Station",
+        "desc": "Vehicles Travelling Southwest",
+        "lat": 39.520244,
+        "lon": -104.865725,
+        "type": 0
+    },
+    {
+        "id": "33788",
+        "name": "39th St / Table Mesa",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.985522,
+        "lon": -105.248455,
+        "type": 1
+    },
+    {
+        "id": "33896",
+        "name": "Thornton/Northglenn",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.921579,
+        "lon": -104.962164,
+        "type": 0
+    },
+    {
+        "id": "33893",
+        "name": "Broomfield",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.923692,
+        "lon": -105.075206,
+        "type": 0
+    },
+    {
+        "id": "33902",
+        "name": "Lone Tree",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.548315,
+        "lon": -104.894618,
+        "type": 0
+    },
+    {
+        "id": "33890",
+        "name": "South Jeffco",
+        "desc": "Vehicles Travelling ",
+        "lat": 39.614346,
+        "lon": -105.093146,
+        "type": 0
+    },
+    {
+        "id": "34142",
+        "name": "Golden",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.757518,
+        "lon": -105.222901,
+        "type": 1
+    },
+    {
+        "id": "26346",
+        "name": "Dry Creek Station Gate C",
+        "desc": "Vehicles Travelling West",
+        "lat": 39.578883,
+        "lon": -104.873712,
+        "type": 0
+    },
+    {
+        "id": "34111",
+        "name": "Empower Field at Mile High",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.743181,
+        "lon": -105.013483,
+        "type": 1
+    },
+    {
+        "id": "33838",
+        "name": "Pinery",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.457477,
+        "lon": -104.756527,
+        "type": 1
+    },
+    {
+        "id": "34145",
+        "name": "Race / Davies",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.590816,
+        "lon": -104.965729,
+        "type": 1
+    },
+    {
+        "id": "33834",
+        "name": "Olympic Park",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.667301,
+        "lon": -104.807628,
+        "type": 1
+    },
+    {
+        "id": "34679",
+        "name": "Florida Station",
+        "desc": "Vehicles Travelling North",
+        "lat": 39.689917,
+        "lon": -104.828099,
+        "type": 1
+    }
+]
